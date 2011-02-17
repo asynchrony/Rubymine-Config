@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="DimensionService">
+    <location key="#Updates.0.0.1600.1200" x="404" y="455" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.1600.0.1600.1200" x="2063" y="402" />
+    <location key="git4idea.ui.GitFetchDialog.1600.0.1600.1200" x="2078" y="262" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.24.1600.1152" x="387" y="257" />
+    <location key="OptionsEditor.0.24.1600.1152" x="1651" y="26" />
+    <location key="findTextDialog.1600.0.1600.1200" x="2084" y="372" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.1200" x="479" y="405" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.1200" x="401" y="256" />
+    <location key="git4idea.rebase.GitRebaseEditor.0.0.1600.1200" x="489" y="337" />
+    <location key="DiffWindow.0.0.1600.1200" x="1633" y="82" />
+    <location key="OptionsEditor.1600.0.1600.1200" x="1787" y="167" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.24.1600.1152" x="511" y="402" />
+    <location key="OptionsEditor.0.0.1600.1200" x="336" y="115" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.24.1600.1152" x="1074" y="307" />
+    <location key="git4idea.ui.GitFetchDialog.0.24.1600.1152" x="478" y="268" />
+    <location key="FileChooserDialogImpl.0.0.1600.1200" x="626" y="356" />
+    <location key="git4idea.ui.GitFetchDialog.0.0.1600.1200" x="477" y="264" />
+    <location key="replaceTextDialog.0.24.1600.1152" x="2086" y="576" />
+    <location key="CommitChangelistDialog.0.24.1600.1152" x="299" y="266" />
+    <location key="#Updates.0.24.1600.1152" x="396" y="450" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1600.1200" x="580" y="445" />
+    <location key="findTextDialog.0.0.1600.1200" x="773" y="483" />
+    <location key="git4idea.rebase.GitRebaseDialog.1600.0.1600.1200" x="2192" y="442" />
+    <location key="git4idea.checkin.GitPushActiveBranchesDialog.0.0.1600.1200" x="359" y="330" />
+    <location key="replaceTextDialog.1600.0.1600.1200" x="2185" y="429" />
+    <location key="FileChooserDialogImpl" x="601" y="335" />
+    <location key="IdeErrosDialog.0.0.1600.1200" x="491" y="284" />
+    <location key="git4idea.checkin.GitPushDialog.0.0.1600.1200" x="508" y="413" />
+    <location key="DiffWindow.0.24.1600.1152" x="163" y="159" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1600.1200" x="140" y="125" />
+    <location key="FileChooserDialogImpl.0.24.1600.1152" x="583" y="337" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1600.1200" x="900" y="350" />
+    <location key="replaceTextDialog.0.0.1600.1200" x="2522" y="457" />
+    <location key="VCS.ChangeListViewerDialog.0.24.1600.1152" x="2042" y="342" />
+    <location key="CommitChangelistDialog.0.0.1600.1200" x="323" y="241" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1600.0.1600.1200" x="1987" y="281" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.24.1600.1152" x="592" y="449" />
+    <location key="IdeErrosDialog.0.24.1600.1152" x="487" y="282" />
+    <location key="findTextDialog.0.24.1600.1152" x="488" y="301" />
+    <size key="javadoc.popup.1600.0.1600.1200" width="504" height="75" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.1600.0.1600.1200" width="665" height="385" />
+    <size key="git4idea.ui.GitFetchDialog.1600.0.1600.1200" width="635" height="665" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.24.1600.1152" width="818" height="687" />
+    <size key="OptionsEditor.0.24.1600.1152" width="1437" height="1111" />
+    <size key="findTextDialog.1600.0.1600.1200" width="665" height="416" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.1200" width="994" height="877" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup" width="467" height="423" />
+    <size key="DiffWindow.0.0.1600.1200" width="1390" height="952" />
+    <size key="OptionsEditor.1600.0.1600.1200" width="1218" height="855" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.24.1600.1152" width="691" height="385" />
+    <size key="javadoc.popup.0.24.1600.1152" width="504" height="75" />
+    <size key="OptionsEditor.0.0.1600.1200" width="1218" height="855" />
+    <size key="git4idea.ui.GitFetchDialog.0.24.1600.1152" width="635" height="665" />
+    <size key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.24.1600.1152" width="518" height="587" />
+    <size key="javadoc.popup.0.0.1600.1200" width="504" height="75" />
+    <size key="FileChooserDialogImpl.0.0.1600.1200" width="418" height="487" />
+    <size key="replaceTextDialog.0.24.1600.1152" width="665" height="422" />
+    <size key="CommitChangelistDialog.0.24.1600.1152" width="895" height="648" />
+    <size key="#Updates.0.24.1600.1152" width="790" height="423" />
+    <size key="findTextDialog.0.0.1600.1200" width="809" height="427" />
+    <size key="git4idea.rebase.GitRebaseDialog.1600.0.1600.1200" width="407" height="304" />
+    <size key="replaceTextDialog.1600.0.1600.1200" width="430" height="339" />
+    <size key="FileChooserDialogImpl" width="418" height="523" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1600.1200" width="1400" height="951" />
+    <size key="DiffWindow.0.24.1600.1152" width="1189" height="1017" />
+    <size key="FileChooserDialogImpl.0.24.1600.1152" width="418" height="528" />
+    <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1600.1200" width="700" height="500" />
+    <size key="VCS.ChangeListViewerDialog.0.24.1600.1152" width="707" height="522" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.1600.0.1600.1200" width="818" height="687" />
+    <size key="git4idea.rebase.GitRebaseDialog.0.24.1600.1152" width="407" height="304" />
+    <size key="IdeErrosDialog.0.24.1600.1152" width="618" height="637" />
+    <size key="findTextDialog.0.24.1600.1152" width="691" height="416" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+    <extendedState key="DiffWindow" state="0" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="com.incors.plaf.alloy.AlloyBedouin" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="evlsprt.5" value="12b94827880" />
+    <property name="KEEP_PRODUCTIVITY_HINTS" value="false" />
+    <property name="Non-Project Files" value="ffffe4" />
+    <property name="installation.uid" value="83c17903-b306-421d-8066-3044a7461614" />
+    <property name="runConfigurationTab.dividerProportion" value="0.2" />
+    <property name="SMTestRunner.Splitter.Proportion" value="0.4923664" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="file.colors.enable.tests" value="e7fadb" />
+    <property name="file.colors.enable.non.project" value="ffffe4" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION" value="0.5" />
+    <property name="KEYMAP" value="find" />
+    <property name="IMMEDIATE_FATAL_ERROR_POPUP" value="false" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="Tests" value="e7fadb" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="Ruby.encodingUpdated" value="true" />
+    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/workspace/jasmine-jquery/spec/suites&#10;/home/dev1/workspace/jaeb_data_ws/spec/lib/loggers&#10;/home/dev1/workspace/jaeb_data_ws/lib/loggers&#10;/home/dev1/workspace/jaeb_data_ws/lib&#10;/home/dev1/workspace/jaeb_data_ws/spec/lib/middleware" />
+    <property name="FileTemplates.SelectedTemplate" value="JavaScript File" />
+    <property name="evlsprt2.5" value="12b32acb05d" />
+  </component>
+</application>
+

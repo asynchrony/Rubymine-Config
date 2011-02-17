@@ -1,0 +1,7 @@
+hg4idea
+org.jetbrains.plugins.rubymine-coverage
+CVS
+CSS-X-Fire
+PerforceDirectPlugin
+HtmlTools
+com.intellij.tasks

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array />
+        <array />
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="lori.cross@git.asolutions.com:7676" method="password" />
+    <successfulAuthentication user="walter.duque.de.estr@git.asolutions.com:7676" method="password" />
+  </component>
+</application>
+

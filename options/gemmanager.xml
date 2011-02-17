@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="GemManagerSettings">
+    <myPrecious>
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems">
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/i18n-0.5.0" name="i18n" version="0.5.0" timestamp="1297271098000" parser_version="9" git="false">
+          <additional_info authors="Sven Fuchs, Joshua Harvey, Matt Aimonetti, Stephan Soller, Saimon Moore" email="rails-i18n@googlegroups.com" homepage="http://github.com/svenfuchs/i18n">
+            <summary>New wave Internationalization support for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/rails_best_practices-0.6.6" name="rails_best_practices" version="0.6.6" timestamp="1297271098000" parser_version="9" git="false">
+          <additional_info authors="Richard Huang" email="flyerhzm@gmail.com" homepage="http://rails-bestpractices.com">
+            <summary>a code metric tool for rails codes.</summary>
+          </additional_info>
+          <dependency name="colored" version="1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="i18n" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="haml" version="3.0.18" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="erubis" version="2.6.6" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="ruby-progressbar" version="0.0.9" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="ruby_parser" version="2.0.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/edgecase-git-pair-0.2.2" name="edgecase-git-pair" version="0.2.2" timestamp="1296062552000" parser_version="9" git="false">
+          <additional_info authors="Chris Kampmeier, Adam McCrea, Jon Distad" email="adam@edgecase.com" homepage="http://github.com/edgecase/git-pair">
+            <summary>Configure git to commit as more than one author</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/ruby-progressbar-0.0.9" name="ruby-progressbar" version="0.0.9" timestamp="1297271097000" parser_version="9" git="false">
+          <additional_info authors="Satoru Takabayashi" email="satoru@namazu.org" homepage="http://github.com/nex3/ruby-progressbar">
+            <summary>Ruby/ProgressBar is a text progress bar library for Ruby. It can indicate progress with percentage, a progress bar, and estimated remaining time.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/sexp_processor-3.0.5" name="sexp_processor" version="3.0.5" timestamp="1297271096000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis" email="ryand-ruby@zenspider.com" homepage="http://rubyforge.org/projects/parsetree/">
+            <summary>sexp_processor branches from ParseTree bringing all the generic sexp processing tools with it</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/activesupport-3.0.4" name="activesupport" version="3.0.4" timestamp="1297271098000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>A toolkit of support libraries and Ruby core extensions extracted from the Rails framework.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/abstract-1.0.0" name="abstract" version="1.0.0" timestamp="1297271097000" parser_version="9" git="false">
+          <additional_info authors="makoto kuwata" email="N/A" homepage="http://rubyforge.org/projects/abstract">
+            <summary>a library which enable you to define abstract method in Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/erubis-2.6.6" name="erubis" version="2.6.6" timestamp="1297271097000" parser_version="9" git="false">
+          <additional_info authors="makoto kuwata" email="kwa(at)kuwata-lab.com" homepage="http://www.kuwata-lab.com/erubis/">
+            <summary>a fast and extensible eRuby implementation which supports multi-language</summary>
+          </additional_info>
+          <dependency name="abstract" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/ruby_parser-2.0.5" name="ruby_parser" version="2.0.5" timestamp="1297271096000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis" email="ryand-ruby@zenspider.com" homepage="http://parsetree.rubyforge.org/">
+            <summary>ruby_parser (RP) is a ruby parser written in pure ruby (utilizing racc--which does by default use a C extension)</summary>
+          </additional_info>
+          <dependency name="sexp_processor" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/colored-1.2" name="colored" version="1.2" timestamp="1297271097000" parser_version="9" git="false">
+          <additional_info authors="Chris Wanstrath" email="chris@ozmm.org" homepage="http://github.com/defunkt/colored">
+            <summary>Add some color to your life.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/haml-3.0.25" name="haml" version="3.0.25" timestamp="1297271097000" parser_version="9" git="false">
+          <additional_info authors="Nathan Weizenbaum, Chris Eppstein, Hampton Catlin" email="haml@googlegroups.com" homepage="http://haml-lang.com/">
+            <summary>An elegant, structured XHTML/XML templating engine. Comes with Sass, a similar CSS templating engine.</summary>
+          </additional_info>
+        </gem>
+      </box>
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/bundler/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@diaspora/bundler/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@jaeb/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/bundler/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@global/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@diaspora/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/bundler/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems">
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/hashie-0.4.0" name="hashie" version="0.4.0" timestamp="1294087458000" parser_version="9" git="false">
+          <additional_info authors="Michael Bleigh" email="michael@intridea.com" homepage="http://github.com/intridea/hashie">
+            <summary>Your friendly neighborhood hash toolkit.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/jasmine-1.0.1.1" name="jasmine" version="1.0.1.1" timestamp="1294087488000" parser_version="9" git="false">
+          <additional_info authors="Rajan Agaskar, Christian Williams, Davis Frank" email="jasmine-js@googlegroups.com" homepage="http://pivotal.github.com/jasmine">
+            <summary>Jasmine Runner for Ruby</summary>
+          </additional_info>
+          <dependency name="json_pure" version="1.4.3" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rspec" version="1.1.5" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="selenium-client" version="1.2.17" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="selenium-rc" version="2.1.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rake" version="0.8.7" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongrel-1.2.0.pre2" name="mongrel" version="1.2.0.pre2" timestamp="1297788766000" parser_version="9" git="false">
+          <additional_info authors="Zed A. Shaw" email="mongrel-users@rubyforge.org" homepage="http://mongrel.rubyforge.org/">
+            <summary>Mongrel is a small library that provides a very fast HTTP 1.1 server for Ruby web applications</summary>
+          </additional_info>
+          <dependency name="daemons" version="1.0.10" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="gem_plugin" version="0.2.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/json_pure-1.4.6" name="json_pure" version="1.4.6" timestamp="1294087456000" parser_version="9" git="false">
+          <additional_info authors="Florian Frank" email="flori@ping.de" homepage="http://flori.github.com/json">
+            <summary>JSON Implementation for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/unicorn-1.1.5" name="unicorn" version="1.1.5" timestamp="1294087495000" parser_version="9" git="false">
+          <additional_info authors="Unicorn hackers" email="mongrel-unicorn@rubyforge.org" homepage="http://unicorn.bogomips.org/">
+            <summary>Rack HTTP server for fast clients and Unix</summary>
+          </additional_info>
+          <dependency name="rack" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid-rspec-1.3.2" name="mongoid-rspec" version="1.3.2" timestamp="1294087490000" parser_version="9" git="false">
+          <additional_info authors="Evan Sagge" email="evansagge@gmail.com" homepage="http://github.com/evansagge/mongoid-rspec">
+            <summary>RSpec matchers for Mongoid</summary>
+          </additional_info>
+          <dependency name="rspec" version="2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="mongoid" version="2.0.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/builder-2.1.2" name="builder" version="2.1.2" timestamp="1294087433000" parser_version="9" git="false">
+          <additional_info authors="Jim Weirich" email="jim@weirichhouse.org" homepage="http://onestepback.org">
+            <summary>Builders for MarkUp.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/thor-0.14.6" name="thor" version="0.14.6" timestamp="1294087477000" parser_version="9" git="false">
+          <additional_info authors="Yehuda Katz, José Valim" email="ruby-thor@googlegroups.com" homepage="http://github.com/wycats/thor">
+            <summary>A scripting framework that replaces rake, sake and rubigen</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/gherkin-2.3.3" name="gherkin" version="2.3.3" timestamp="1294087474000" parser_version="9" git="false">
+          <additional_info authors="Mike Sassak, Gregory Hnatiuk, Aslak Hellesøy" email="cukes@googlegroups.com" homepage="http://github.com/aslakhellesoy/gherkin">
+            <summary>gherkin-2.3.3</summary>
+          </additional_info>
+          <dependency name="json" version="1.4.6" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/tzinfo-0.3.23" name="tzinfo" version="0.3.23" timestamp="1294087436000" parser_version="9" git="false">
+          <additional_info authors="Philip Ross" email="phil.ross@gmail.com" homepage="http://tzinfo.rubyforge.org/">
+            <summary>Daylight-savings aware timezone library</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/factory_girl_rails-1.0" name="factory_girl_rails" version="1.0" timestamp="1294087478000" parser_version="9" git="false">
+          <additional_info authors="Joe Ferris" email="jferris@thoughtbot.com" homepage="http://thoughtbot.com/projects/factory_girl_rails">
+            <summary>factory_girl_rails provides integration between factory_girl and rails 3</summary>
+          </additional_info>
+          <dependency name="factory_girl" version="1.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rails" version="3.0.0.beta4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/arel-2.0.6" name="arel" version="2.0.6" timestamp="1294087437000" parser_version="9" git="false">
+          <additional_info authors="Aaron Patterson, Bryan Halmkamp, Emilio Tagua, Nick Kallen" email="aaron@tenderlovemaking.com, bryan@brynary.com, miloops@gmail.com, nick@example.org" homepage="http://github.com/rails/arel">
+            <summary>Arel is a Relational Algebra for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid_rails_migrations-0.0.8" name="mongoid_rails_migrations" version="0.0.8" timestamp="1294087490000" parser_version="9" git="false">
+          <additional_info authors="Alan Da Costa" email="alandacosta@gmail.com.com" homepage="http://github.com/adacosta/mongoid_rails_migrations">
+            <summary>Data migrations for Mongoid in Active Record style, minus column input.</summary>
+          </additional_info>
+          <dependency name="mongoid" version="2.0.0.beta.17" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rails" version="3.0.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="bundler" version="0.9.19" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="3.0.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="railties" version="3.0.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mime-types-1.16" name="mime-types" version="1.16" timestamp="1294087436000" parser_version="9" git="false">
+          <additional_info authors="Austin Ziegler" email="austin@rubyforge.org" homepage="http://mime-types.rubyforge.org/">
+            <summary>Manages a MIME Content-Type database that will return the Content-Type for a given filename.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/carrierwave-0.5.1" name="carrierwave" version="0.5.1" timestamp="1297703955000" parser_version="9" git="false">
+          <additional_info authors="Jonas Nicklas" email="jonas.nicklas@gmail.com" homepage="http://carrierwave.rubyforge.org">
+            <summary>Ruby file upload library</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/i18n-0.5.0" name="i18n" version="0.5.0" timestamp="1294087433000" parser_version="9" git="false">
+          <additional_info authors="Sven Fuchs, Joshua Harvey, Matt Aimonetti, Stephan Soller, Saimon Moore" email="rails-i18n@googlegroups.com" homepage="http://github.com/svenfuchs/i18n">
+            <summary>New wave Internationalization support for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/bson-1.2.0" name="bson" version="1.2.0" timestamp="1296834909000" parser_version="9" git="false">
+          <additional_info authors="Jim Menard, Mike Dirolf, Kyle Banker" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>Ruby implementation of BSON</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rack-jsonp-1.1.0" name="rack-jsonp" version="1.1.0" timestamp="1294940754000" parser_version="9" git="false">
+          <additional_info authors="Cyril Rohr" email="cyril.rohr@gmail.com" homepage="http://github.com/crohr/rack-jsonp">
+            <summary>A Rack middleware for providing JSON-P support.</summary>
+          </additional_info>
+          <dependency name="rack" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/columnize-0.3.2" name="columnize" version="0.3.2" timestamp="1294087457000" parser_version="9" git="false">
+          <additional_info authors="R. Bernstein" email="rockyb@rubyforge.net" homepage="http://rubyforge.org/projects/rocky-hacks/columnize">
+            <summary>Module to format an Array as an Array of String aligned in columns</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/selenium-webdriver-0.1.2" name="selenium-webdriver" version="0.1.2" timestamp="1294087457000" parser_version="9" git="false">
+          <additional_info authors="Jari Bakken" email="jari.bakken@gmail.com" homepage="http://selenium.googlecode.com">
+            <summary>The next generation developer focused tool for automated testing of webapps</summary>
+          </additional_info>
+          <dependency name="childprocess" version="0.1.5" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="ffi" version="0.6.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="json_pure" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rubyzip" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/net-ssh-gateway-1.0.1" name="net-ssh-gateway" version="1.0.1" timestamp="1294087443000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck" email="jamis@jamisbuck.org" homepage="http://net-ssh.rubyforge.org/gateway">
+            <summary>A simple library to assist in establishing tunneled Net::SSH connections</summary>
+          </additional_info>
+          <dependency name="net-ssh" version="1.99.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-expectations-2.3.0" name="rspec-expectations" version="2.3.0" timestamp="1294087476000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec-expectations">
+            <summary>rspec-expectations-2.3.0</summary>
+          </additional_info>
+          <dependency name="diff-lcs" version="1.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/ffi-0.6.3" name="ffi" version="0.6.3" timestamp="1294087455000" parser_version="9" git="false">
+          <additional_info authors="Wayne Meissner" email="wmeissner@gmail.com" homepage="http://wiki.github.com/ffi/ffi">
+            <summary>Ruby-FFI is a ruby extension for programmatically loading dynamic libraries, binding functions within them, and calling those functions from Ruby code</summary>
+          </additional_info>
+          <dependency name="rake" version="0.8.7" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/bcrypt-ruby-2.1.2" name="bcrypt-ruby" version="2.1.2" timestamp="1294087439000" parser_version="9" git="false">
+          <additional_info authors="Coda Hale" email="coda.hale@gmail.com" homepage="http://bcrypt-ruby.rubyforge.org">
+            <summary>OpenBSD's bcrypt() password hashing algorithm.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rack-1.2.1" name="rack" version="1.2.1" timestamp="1294087434000" parser_version="9" git="false">
+          <additional_info authors="Christian Neukirchen" email="chneukirchen@gmail.com" homepage="http://rack.rubyforge.org">
+            <summary>a modular Ruby webserver interface</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/railties-3.0.3" name="railties" version="3.0.3" timestamp="1294087478000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Tools for creating, working with, and running Rails applications.</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="thor" version="0.14.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rake" version="0.8.7" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="actionpack" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/multi_json-0.0.5" name="multi_json" version="0.0.5" timestamp="1294940753000" parser_version="9" git="false">
+          <additional_info authors="Michael Bleigh" email="michael@intridea.com" homepage="http://github.com/intridea/multi_json">
+            <summary>A gem to provide swappable JSON backends.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/bcrypt-ruby-2.1.3" name="bcrypt-ruby" version="2.1.3" timestamp="1294343612000" parser_version="9" git="false">
+          <additional_info authors="Coda Hale" email="coda.hale@gmail.com" homepage="http://bcrypt-ruby.rubyforge.org">
+            <summary>OpenBSD's bcrypt() password hashing algorithm.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rack-contrib-1.1.0" name="rack-contrib" version="1.1.0" timestamp="1296059139000" parser_version="9" git="false">
+          <additional_info authors="rack-devel" email="rack-devel@googlegroups.com" homepage="http://github.com/rack/rack-contrib/">
+            <summary>Contributed Rack Middleware and Utilities</summary>
+          </additional_info>
+          <dependency name="rack" version="0.9.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongo-1.1.5" name="mongo" version="1.1.5" timestamp="1294087489000" parser_version="9" git="false">
+          <additional_info authors="Jim Menard, Mike Dirolf, Kyle Banker" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>Ruby driver for the MongoDB</summary>
+          </additional_info>
+          <dependency name="bson" version="1.1.5" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/gem_plugin-0.2.3" name="gem_plugin" version="0.2.3" timestamp="1297788765000" parser_version="9" git="false">
+          <additional_info authors="Zed A. Shaw" email="" homepage="">
+            <summary>A plugin system based on rubygems that uses dependencies only</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-core-2.4.0" name="rspec-core" version="2.4.0" timestamp="1294343615000" parser_version="9" git="false">
+          <additional_info authors="Chad Humphries, David Chelimsky" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec-core">
+            <summary>rspec-core-2.4.0</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/linecache19-0.5.11" name="linecache19" version="0.5.11" timestamp="1294087489000" parser_version="9" git="false">
+          <additional_info authors="R. Bernstein, Mark Moseley" email="mark@fast-software.com" homepage="http://rubyforge.org/projects/ruby-debug19">
+            <summary>Read file with caching</summary>
+          </additional_info>
+          <dependency name="ruby_core_source" version="0.1.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/ZenTest-4.4.2" name="ZenTest" version="4.4.2" timestamp="1294087432000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis, Eric Hodel" email="ryand-ruby@zenspider.com, drbrain@segment7.net" homepage="http://www.zenspider.com/ZSS/Products/ZenTest/">
+            <summary>ZenTest provides 4 different tools: zentest, unit_diff, autotest, and multiruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongomatic-0.7.3" name="mongomatic" version="0.7.3" timestamp="1296059139000" parser_version="9" git="false">
+          <additional_info authors="Ben Myles" email="ben.myles@gmail.com" homepage="http://mongomatic.com/">
+            <summary>Mongomatic is a simple Ruby object mapper for Mongo</summary>
+          </additional_info>
+          <dependency name="mongo" version="1.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="bson" version="1.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="2.3.5" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/capybara-0.4.0" name="capybara" version="0.4.0" timestamp="1294087457000" parser_version="9" git="false">
+          <additional_info authors="Jonas Nicklas" email="jonas.nicklas@gmail.com" homepage="http://github.com/jnicklas/capybara">
+            <summary>Capybara aims to simplify the process of integration testing Rack applications, such as Rails, Sinatra or Merb</summary>
+          </additional_info>
+          <dependency name="nokogiri" version="1.3.3" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="mime-types" version="1.16" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="xpath" version="0.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rack-test" version="0.5.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="selenium-webdriver" version="0.0.27" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="celerity" version="0.7.9" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="culerity" version="0.2.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rack-test-0.5.7" name="rack-test" version="0.5.7" timestamp="1294343609000" parser_version="9" git="false">
+          <additional_info authors="Bryan Helmkamp" email="bryan@brynary.com" homepage="http://github.com/brynary/rack-test">
+            <summary>Simple testing API built on Rack</summary>
+          </additional_info>
+          <dependency name="rack" version="1.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rack-test-0.5.6" name="rack-test" version="0.5.6" timestamp="1294087435000" parser_version="9" git="false">
+          <additional_info authors="Bryan Helmkamp" email="bryan@brynary.com" homepage="http://github.com/brynary/rack-test">
+            <summary>Simple testing API built on Rack</summary>
+          </additional_info>
+          <dependency name="rack" version="1.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/warden-1.0.3" name="warden" version="1.0.3" timestamp="1294087477000" parser_version="9" git="false">
+          <additional_info authors="Daniel Neighman" email="has.sox@gmail.com" homepage="http://github.com/hassox/warden">
+            <summary>Rack middleware that provides authentication for rack applications</summary>
+          </additional_info>
+          <dependency name="rack" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-rails-2.3.0" name="rspec-rails" version="2.3.0" timestamp="1294087490000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky" email="dchelimsky@gmail.com" homepage="http://github.com/rspec/rspec-rails">
+            <summary>rspec-rails-2.3.0</summary>
+          </additional_info>
+          <dependency name="rspec" version="2.3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="actionpack" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="railties" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/cucumber-rails-0.3.2" name="cucumber-rails" version="0.3.2" timestamp="1294087475000" parser_version="9" git="false">
+          <additional_info authors="Dennis Blöte, Aslak Hellesøy, Rob Holland" email="cukes@googlegroups.com" homepage="http://github.com/aslakhellesoy/cucumber-rails">
+            <summary>Cucumber Generators and Runtime for Rails</summary>
+          </additional_info>
+          <dependency name="cucumber" version="0.8.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/actionpack-3.0.3" name="actionpack" version="3.0.3" timestamp="1294087436000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Web-flow and rendering framework putting the VC in MVC (part of Rails).</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="tzinfo" version="0.3.23" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="erubis" version="2.6.6" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="i18n" version="0.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rack-test" version="0.5.6" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rack-mount" version="0.6.13" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="builder" version="2.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack" version="1.2.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/activesupport-3.0.3" name="activesupport" version="3.0.3" timestamp="1294087433000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>A toolkit of support libraries and Ruby core extensions extracted from the Rails framework.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/ci_reporter-1.6.4" name="ci_reporter" version="1.6.4" timestamp="1296834917000" parser_version="9" git="false">
+          <additional_info authors="Nick Sieger" email="nick@nicksieger.com" homepage="http://caldersphere.rubyforge.org/ci_reporter">
+            <summary>CI::Reporter allows you to generate reams of XML for use with continuous integration systems.</summary>
+          </additional_info>
+          <dependency name="builder" version="2.1.2" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/launchy-0.3.7" name="launchy" version="0.3.7" timestamp="1294087488000" parser_version="9" git="false">
+          <additional_info authors="Jeremy Hinegardner" email="jeremy@copiousfreetime.org" homepage="http://copiousfreetime.rubyforge.org/launchy/">
+            <summary>Launchy is helper class for launching cross-platform applications in a fire and forget manner</summary>
+          </additional_info>
+          <dependency name="configuration" version="0.0.5" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rake" version="0.8.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/configatron-2.6.4" name="configatron" version="2.6.4" timestamp="1294087458000" parser_version="9" git="false">
+          <additional_info authors="markbates" email="mark@markbates.com" homepage="http://www.metabates.com">
+            <summary>A powerful Ruby configuration system.</summary>
+          </additional_info>
+          <dependency name="yamler" version="0.1.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/ruby_core_source-0.1.4" name="ruby_core_source" version="0.1.4" timestamp="1294087488000" parser_version="9" git="false">
+          <additional_info authors="Mark Moseley" email="mark@fast-software.com" homepage="http://github.com/mark-moseley/ruby_core_source">
+            <summary>Retrieve Ruby core source files</summary>
+          </additional_info>
+          <dependency name="archive-tar-minitar" version="0.5.2" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/daemons-1.0.10" name="daemons" version="1.0.10" timestamp="1297788765000" parser_version="9" git="false">
+          <additional_info authors="Thomas Uehlinger" email="th.uehlinger@gmx.ch" homepage="http://daemons.rubyforge.org">
+            <summary>A toolkit to create and control daemons in different ways</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/culerity-0.2.14" name="culerity" version="0.2.14" timestamp="1294343614000" parser_version="9" git="false">
+          <additional_info authors="Alexander Lang" email="alex@upstream-berlin.com" homepage="http://github.com/langalex/culerity">
+            <summary>Culerity integrates Cucumber and Celerity in order to test your application's full stack.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/factory_girl-1.3.2" name="factory_girl" version="1.3.2" timestamp="1294087477000" parser_version="9" git="false">
+          <additional_info authors="Joe Ferris" email="jferris@thoughtbot.com" homepage="http://thoughtbot.com/projects/factory_girl">
+            <summary>factory_girl provides a framework and DSL for defining and using model instance factories.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/culerity-0.2.12" name="culerity" version="0.2.12" timestamp="1294087446000" parser_version="9" git="false">
+          <additional_info authors="Alexander Lang" email="alex@upstream-berlin.com" homepage="http://github.com/langalex/culerity">
+            <summary>Culerity integrates Cucumber and Celerity in order to test your application's full stack.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/email_spec-1.0.0" name="email_spec" version="1.0.0" timestamp="1294087477000" parser_version="9" git="false">
+          <additional_info authors="Ben Mabey, Aaron Gibralter, Mischa Fierer" email="ben@benmabey.com" homepage="http://github.com/bmabey/email-spec/">
+            <summary>Easily test email in rspec and cucumber</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/yamler-0.1.0" name="yamler" version="0.1.0" timestamp="1294087457000" parser_version="9" git="false">
+          <additional_info authors="markbates" email="mark@mackframework.com" homepage="http://www.mackframework.com">
+            <summary>yamler</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/ci_reporter-1.6.3" name="ci_reporter" version="1.6.3" timestamp="1294087457000" parser_version="9" git="false">
+          <additional_info authors="Nick Sieger" email="nick@nicksieger.com" homepage="http://caldersphere.rubyforge.org/ci_reporter">
+            <summary>CI::Reporter allows you to generate reams of XML for use with continuous integration systems.</summary>
+          </additional_info>
+          <dependency name="builder" version="2.1.2" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid-2.0.0.beta.20" name="mongoid" version="2.0.0.beta.20" timestamp="1294087489000" parser_version="9" git="false">
+          <additional_info authors="Durran Jordan" email="durran@gmail.com" homepage="http://mongoid.org">
+            <summary>Elegent Persistance in Ruby for MongoDB.</summary>
+          </additional_info>
+          <dependency name="will_paginate" version="3.0.pre" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="tzinfo" version="0.3.22" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="mongo" version="1.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/email_spec-1.1.1" name="email_spec" version="1.1.1" timestamp="1294343616000" parser_version="9" git="false">
+          <additional_info authors="Ben Mabey, Aaron Gibralter, Mischa Fierer" email="ben@benmabey.com" homepage="http://github.com/bmabey/email-spec/">
+            <summary>Easily test email in rspec and cucumber</summary>
+          </additional_info>
+          <dependency name="rspec" version="2.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/erubis-2.6.6" name="erubis" version="2.6.6" timestamp="1294087434000" parser_version="9" git="false">
+          <additional_info authors="makoto kuwata" email="kwa(at)kuwata-lab.com" homepage="http://www.kuwata-lab.com/erubis/">
+            <summary>a fast and extensible eRuby implementation which supports multi-language</summary>
+          </additional_info>
+          <dependency name="abstract" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/diff-lcs-1.1.2" name="diff-lcs" version="1.1.2" timestamp="1294087458000" parser_version="9" git="false">
+          <additional_info authors="N/A" email="diff-lcs@halostatue.ca" homepage="http://rubyforge.org/projects/ruwiki/">
+            <summary>Provides a list of changes that represent the difference between two sequenced collections.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/bundler-1.0.7" name="bundler" version="1.0.7" timestamp="1294087410000" parser_version="9" git="false">
+          <additional_info authors="Carl Lerche, Yehuda Katz, André Arko" email="carlhuda@engineyard.com" homepage="http://gembundler.com">
+            <summary>The best way to manage your application's dependencies</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/abstract-1.0.0" name="abstract" version="1.0.0" timestamp="1294087432000" parser_version="9" git="false">
+          <additional_info authors="makoto kuwata" email="N/A" homepage="http://rubyforge.org/projects/abstract">
+            <summary>a library which enable you to define abstract method in Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/xpath-0.1.2" name="xpath" version="0.1.2" timestamp="1294087457000" parser_version="9" git="false">
+          <additional_info authors="Jonas Nicklas" email="jonas.nicklas@gmail.com" homepage="http://github.com/jnicklas/xpath">
+            <summary>Generate XPath expressions from Ruby</summary>
+          </additional_info>
+          <dependency name="nokogiri" version="1.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-mocks-2.3.0" name="rspec-mocks" version="2.3.0" timestamp="1294087476000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec-mocks">
+            <summary>rspec-mocks-2.3.0</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/multi_xml-0.2.0" name="multi_xml" version="0.2.0" timestamp="1294940753000" parser_version="9" git="false">
+          <additional_info authors="Erik Michaels-Ober" email="sferik@gmail.com" homepage="http://rubygems.org/gems/multi_xml">
+            <summary>A generic swappable back-end for XML parsing</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/sexp_processor-3.0.5" name="sexp_processor" version="3.0.5" timestamp="1294087492000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis" email="ryand-ruby@zenspider.com" homepage="http://rubyforge.org/projects/parsetree/">
+            <summary>sexp_processor branches from ParseTree bringing all the generic sexp processing tools with it</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/archive-tar-minitar-0.5.2" name="archive-tar-minitar" version="0.5.2" timestamp="1294087438000" parser_version="9" git="false">
+          <additional_info authors="Austin Ziegler, Mauricio Ferna'ndez" email="minitar@halostatue.ca" homepage="http://rubyforge.org/projects/ruwiki/">
+            <summary>Provides POSIX tarchive management from Ruby programs.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/shoulda-2.11.3" name="shoulda" version="2.11.3" timestamp="1294087492000" parser_version="9" git="false">
+          <additional_info authors="Tammer Saleh, Joe Ferris, Ryan McGeary, Dan Croak, Matt Jankowski" email="support@thoughtbot.com" homepage="http://thoughtbot.com/community/">
+            <summary>Making tests easy on the fingers and eyes</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/bson_ext-1.2.0" name="bson_ext" version="1.2.0" timestamp="1296834909000" parser_version="9" git="false">
+          <additional_info authors="Mike Dirolf" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>C extensions for Ruby BSON.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid-2.0.0.rc.4" name="mongoid" version="2.0.0.rc.4" timestamp="1294962151000" parser_version="9" git="false">
+          <additional_info authors="Durran Jordan" email="durran@gmail.com" homepage="http://mongoid.org">
+            <summary>Elegant Persistance in Ruby for MongoDB.</summary>
+          </additional_info>
+          <dependency name="will_paginate" version="3.0.pre" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="tzinfo" version="0.3.22" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="mongo" version="1.1.5" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/bson_ext-1.1.5" name="bson_ext" version="1.1.5" timestamp="1294087442000" parser_version="9" git="false">
+          <additional_info authors="Mike Dirolf" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>C extensions for Ruby BSON.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/jquery-rails-0.2.6" name="jquery-rails" version="0.2.6" timestamp="1294087488000" parser_version="9" git="false">
+          <additional_info authors="André Arko" email="andre@arko.net" homepage="http://rubygems.org/gems/jquery-rails">
+            <summary>Use jQuery with Rails 3</summary>
+          </additional_info>
+          <dependency name="thor" version="0.14.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rails" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-2.4.0" name="rspec" version="2.4.0" timestamp="1294343616000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec">
+            <summary>rspec-2.4.0</summary>
+          </additional_info>
+          <dependency name="rspec-expectations" version="2.4.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rspec-mocks" version="2.4.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rspec-core" version="2.4.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/custom_rspec_matchers-0.0.3" name="custom_rspec_matchers" version="0.0.3" timestamp="1294087476000" parser_version="9" git="false">
+          <additional_info authors="kenny ortmann, matt simpson, amos king" email="kenny.ortmann@gmail.com, matt.simpson@asolutions.com, amos.king@asolutions.com" homepage="https://github.com/asynchrony/custom_rspec_matchers">
+            <summary>a few custom rspec matchers we have created to help with testing</summary>
+          </additional_info>
+          <dependency name="actionpack" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rake" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rspec" version="2.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rack-mount-0.6.13" name="rack-mount" version="0.6.13" timestamp="1294087435000" parser_version="9" git="false">
+          <additional_info authors="Joshua Peek" email="josh@joshpeek.com" homepage="http://github.com/josh/rack-mount">
+            <summary>Stackable dynamic tree based Rack router</summary>
+          </additional_info>
+          <dependency name="rack" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/configuration-1.2.0" name="configuration" version="1.2.0" timestamp="1294087458000" parser_version="9" git="false">
+          <additional_info authors="Ara T. Howard" email="ara.t.howard@gmail.com" homepage="http://github.com/ahoward/configuration/tree/master">
+            <summary>configuration</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/devise-1.1.5" name="devise" version="1.1.5" timestamp="1294087477000" parser_version="9" git="false">
+          <additional_info authors="José Valim, Carlos Antônio" email="contact@plataformatec.com.br" homepage="http://github.com/plataformatec/devise">
+            <summary>Flexible authentication solution for Rails with Warden</summary>
+          </additional_info>
+          <dependency name="bcrypt-ruby" version="2.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="warden" version="1.0.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mail-2.2.15" name="mail" version="2.2.15" timestamp="1296834908000" parser_version="9" git="false">
+          <additional_info authors="Mikel Lindsaar" email="raasdnil@gmail.com" homepage="http://github.com/mikel/mail">
+            <summary>Mail provides a nice Ruby DSL for making, sending and reading emails.</summary>
+          </additional_info>
+          <dependency name="treetop" version="1.4.8" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="mime-types" version="1.16" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="2.3.6" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="i18n" version="0.4.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/selenium-rc-2.2.4" name="selenium-rc" version="2.2.4" timestamp="1294087488000" parser_version="9" git="false">
+          <additional_info authors="Pivotal Labs, Nate Clark, Brian Takita, Chad Woolley, Matthew Kocher" email="pivotallabsopensource@googlegroups.com" homepage="http://github.com/pivotal/selenium-rc">
+            <summary>The Selenium RC Server packaged as a gem.</summary>
+          </additional_info>
+          <dependency name="selenium-client" version="1.2.18" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mail-2.2.14" name="mail" version="2.2.14" timestamp="1294343610000" parser_version="9" git="false">
+          <additional_info authors="Mikel Lindsaar" email="raasdnil@gmail.com" homepage="http://github.com/mikel/mail">
+            <summary>Mail provides a nice Ruby DSL for making, sending and reading emails.</summary>
+          </additional_info>
+          <dependency name="treetop" version="1.4.8" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="mime-types" version="1.16" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="2.3.6" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="i18n" version="0.4.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mail-2.2.12" name="mail" version="2.2.12" timestamp="1294087437000" parser_version="9" git="false">
+          <additional_info authors="Mikel Lindsaar" email="raasdnil@gmail.com" homepage="http://github.com/mikel/mail">
+            <summary>Mail provides a nice Ruby DSL for making, sending and reading emails.</summary>
+          </additional_info>
+          <dependency name="treetop" version="1.4.8" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="mime-types" version="1.16" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="2.3.6" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="i18n" version="0.4.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/bson-1.1.5" name="bson" version="1.1.5" timestamp="1294087441000" parser_version="9" git="false">
+          <additional_info authors="Jim Menard, Mike Dirolf, Kyle Banker" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>Ruby implementation of BSON</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/will_paginate-3.0.pre2" name="will_paginate" version="3.0.pre2" timestamp="1294087489000" parser_version="9" git="false">
+          <additional_info authors="Mislav Marohnić" email="mislav.marohnic@gmail.com" homepage="http://github.com/mislav/will_paginate/wikis">
+            <summary>Adaptive pagination plugin for web frameworks and other applications</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/kgio-2.1.1" name="kgio" version="2.1.1" timestamp="1296059139000" parser_version="9" git="false">
+          <additional_info authors="kgio hackers" email="kgio@librelist.org" homepage="http://bogomips.org/kgio/">
+            <summary>kinder, gentler I/O for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rails-3.0.3" name="rails" version="3.0.3" timestamp="1294087478000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Full-stack web application framework.</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="bundler" version="1.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activeresource" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="actionpack" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="railties" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="actionmailer" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="activerecord" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-core-2.3.0" name="rspec-core" version="2.3.0" timestamp="1294087475000" parser_version="9" git="false">
+          <additional_info authors="Chad Humphries, David Chelimsky" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec-core">
+            <summary>rspec-core-2.3.0</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongo-1.2.0" name="mongo" version="1.2.0" timestamp="1296834920000" parser_version="9" git="false">
+          <additional_info authors="Jim Menard, Mike Dirolf, Kyle Banker" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>Ruby driver for the MongoDB</summary>
+          </additional_info>
+          <dependency name="bson" version="1.2.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/ruby-debug19-0.11.6" name="ruby-debug19" version="0.11.6" timestamp="1294087492000" parser_version="9" git="false">
+          <additional_info authors="Kent Sibilev, Mark Moseley" email="mark@fast-software.com" homepage="http://rubyforge.org/projects/ruby-debug19/">
+            <summary>Command line interface (CLI) for ruby-debug-base</summary>
+          </additional_info>
+          <dependency name="columnize" version="0.3.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="linecache19" version="0.5.11" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="ruby-debug-base19" version="0.11.19" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/selenium-client-1.2.18" name="selenium-client" version="1.2.18" timestamp="1294087484000" parser_version="9" git="false">
+          <additional_info authors="OpenQA" email="selenium-client@rubyforge.org" homepage="http://selenium-client.rubyforge.com">
+            <summary>Official Ruby Client for Selenium RC.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/activerecord-3.0.3" name="activerecord" version="3.0.3" timestamp="1294087438000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Object-relational mapper framework (part of Rails).</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="tzinfo" version="0.3.23" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="arel" version="2.0.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid_taggable-0.1.1" name="mongoid_taggable" version="0.1.1" timestamp="1294104454000" parser_version="9" git="false">
+          <additional_info authors="Wilker Lúcio, Kris Kowalik" email="wilkerlucio@gmail.com" homepage="http://github.com/kriss/mongo_taggable">
+            <summary>Mongoid taggable behaviour</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/celerity-0.8.6" name="celerity" version="0.8.6" timestamp="1294087445000" parser_version="9" git="false">
+          <additional_info authors="Jari Bakken, T. Alexander Lystad, Knut Johannes Dahle" email="jari.bakken@gmail.com" homepage="http://github.com/jarib/celerity">
+            <summary>Celerity is a JRuby library for easy and fast functional test automation for web applications.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/cover_me-1.0.0.rc3" name="cover_me" version="1.0.0.rc3" timestamp="1294087458000" parser_version="9" git="false">
+          <additional_info authors="markbates" email="mark+cover_me@markbates.com" homepage="http://www.metabates.com">
+            <summary>CoverMe - Code Coverage for Ruby 1.9</summary>
+          </additional_info>
+          <dependency name="configatron" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="hashie" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/cover_me-1.0.0.rc5" name="cover_me" version="1.0.0.rc5" timestamp="1296834918000" parser_version="9" git="false">
+          <additional_info authors="markbates" email="mark+cover_me@markbates.com" homepage="http://www.metabates.com">
+            <summary>CoverMe - Code Coverage for Ruby 1.9</summary>
+          </additional_info>
+          <dependency name="configatron" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="hashie" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/grape-0.1.3" name="grape" version="0.1.3" timestamp="1294940754000" parser_version="9" git="false">
+          <additional_info authors="Michael Bleigh" email="michael@intridea.com" homepage="http://github.com/intridea/grape">
+            <summary>A Ruby framework for rapid API development.</summary>
+          </additional_info>
+          <dependency name="multi_json" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="multi_xml" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="json" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack-jsonp" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack-mount" version="0.6.13" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/ruby_parser-2.0.5" name="ruby_parser" version="2.0.5" timestamp="1294087492000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis" email="ryand-ruby@zenspider.com" homepage="http://parsetree.rubyforge.org/">
+            <summary>ruby_parser (RP) is a ruby parser written in pure ruby (utilizing racc--which does by default use a C extension)</summary>
+          </additional_info>
+          <dependency name="sexp_processor" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/json-1.4.6" name="json" version="1.4.6" timestamp="1294087460000" parser_version="9" git="false">
+          <additional_info authors="Florian Frank" email="flori@ping.de" homepage="http://flori.github.com/json">
+            <summary>JSON Implementation for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/net-ssh-2.0.24" name="net-ssh" version="2.0.24" timestamp="1296059137000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck, Delano Mandelbaum" email="net-ssh@solutious.com" homepage="http://github.com/net-ssh/net-ssh">
+            <summary>Net::SSH: a pure-Ruby implementation of the SSH2 client protocol.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/net-ssh-2.0.23" name="net-ssh" version="2.0.23" timestamp="1294087442000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck, Delano Mandelbaum" email="net-ssh@solutious.com" homepage="http://github.com/net-ssh/net-ssh">
+            <summary>Net::SSH: a pure-Ruby implementation of the SSH2 client protocol.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/haml-3.0.25" name="haml" version="3.0.25" timestamp="1294343617000" parser_version="9" git="false">
+          <additional_info authors="Nathan Weizenbaum, Chris Eppstein, Hampton Catlin" email="haml@googlegroups.com" homepage="http://haml-lang.com/">
+            <summary>An elegant, structured XHTML/XML templating engine. Comes with Sass, a similar CSS templating engine.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/haml-3.0.24" name="haml" version="3.0.24" timestamp="1294087479000" parser_version="9" git="false">
+          <additional_info authors="Nathan Weizenbaum, Chris Eppstein, Hampton Catlin" email="haml@googlegroups.com" homepage="http://haml-lang.com/">
+            <summary>An elegant, structured XHTML/XML templating engine. Comes with Sass, a similar CSS templating engine.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/kgio-2.2.0" name="kgio" version="2.2.0" timestamp="1296843141000" parser_version="9" git="false">
+          <additional_info authors="kgio hackers" email="kgio@librelist.org" homepage="http://bogomips.org/kgio/">
+            <summary>kinder, gentler I/O for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/kgio-2.3.2" name="kgio" version="2.3.2" timestamp="1297877461000" parser_version="9" git="false">
+          <additional_info authors="kgio hackers" email="kgio@librelist.org" homepage="http://bogomips.org/kgio/">
+            <summary>kinder, gentler I/O for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/actionmailer-3.0.3" name="actionmailer" version="3.0.3" timestamp="1294087437000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Email composition, delivery, and receiving framework (part of Rails).</summary>
+          </additional_info>
+          <dependency name="mail" version="2.2.9" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="actionpack" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/net-sftp-2.0.5" name="net-sftp" version="2.0.5" timestamp="1294087443000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck" email="netsftp@solutious.com" homepage="http://net-ssh.rubyforge.org/sftp">
+            <summary>A pure Ruby implementation of the SFTP client protocol</summary>
+          </additional_info>
+          <dependency name="net-ssh" version="2.0.9" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/autotest-4.4.6" name="autotest" version="4.4.6" timestamp="1294087438000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis" email="ryand-ruby@zenspider.com" homepage="http://www.zenspider.com/ZSS/Products/ZenTest/">
+            <summary>This is a stub gem to fix the confusion caused by autotest being part of the ZenTest suite.</summary>
+          </additional_info>
+          <dependency name="ZenTest" version="4.4.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/unicorn-3.3.1" name="unicorn" version="3.3.1" timestamp="1296059142000" parser_version="9" git="false">
+          <additional_info authors="Unicorn hackers" email="mongrel-unicorn@rubyforge.org" homepage="http://unicorn.bogomips.org/">
+            <summary>Rack HTTP server for fast clients and Unix</summary>
+          </additional_info>
+          <dependency name="rack" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="kgio" version="2.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/capistrano-ext-1.2.1" name="capistrano-ext" version="1.2.1" timestamp="1294087443000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck" email="jamis@jamisbuck.org" homepage="http://www.capify.org">
+            <summary>Useful task libraries and methods for Capistrano</summary>
+          </additional_info>
+          <dependency name="capistrano" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rubyzip-0.9.4" name="rubyzip" version="0.9.4" timestamp="1294087456000" parser_version="9" git="false">
+          <additional_info authors="Thomas Sondergaard" email="thomas(at)sondergaard.cc" homepage="http://rubyzip.sourceforge.net/">
+            <summary>rubyzip is a ruby module for reading and writing zip files</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/unicorn-3.4.0" name="unicorn" version="3.4.0" timestamp="1297877464000" parser_version="9" git="false">
+          <additional_info authors="Unicorn hackers" email="mongrel-unicorn@rubyforge.org" homepage="http://unicorn.bogomips.org/">
+            <summary>Rack HTTP server for fast clients and Unix</summary>
+          </additional_info>
+          <dependency name="rack" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="kgio" version="2.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/term-ansicolor-1.0.5" name="term-ansicolor" version="1.0.5" timestamp="1294087475000" parser_version="9" git="false">
+          <additional_info authors="Florian Frank" email="flori@ping.de" homepage="http://flori.github.com/term-ansicolor">
+            <summary>Ruby library that colors strings using ANSI escape sequences</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/faker-0.9.4" name="faker" version="0.9.4" timestamp="1294343616000" parser_version="9" git="false">
+          <additional_info authors="Benjamin Curtis" email="benjamin.curtis@gmail.com" homepage="http://faker.rubyforge.org">
+            <summary>Easily generate fake data</summary>
+          </additional_info>
+          <dependency name="i18n" version="0.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/activeresource-3.0.3" name="activeresource" version="3.0.3" timestamp="1294087438000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>REST modeling framework (part of Rails).</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/humanizer-2.4.1" name="humanizer" version="2.4.1" timestamp="1294087484000" parser_version="9" git="false">
+          <additional_info authors="Antti Akonniemi, Joao Carlos Cardoso" email="antti@kiskolabs.com, joao@kiskolabs.com" homepage="http://github.com/kiskolabs/humanizer">
+            <summary>A really simple captcha solution</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/activemodel-3.0.3" name="activemodel" version="3.0.3" timestamp="1294087433000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>A toolkit for building modeling frameworks (part of Rails).</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.3" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="i18n" version="0.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="builder" version="2.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/nokogiri-1.4.4" name="nokogiri" version="1.4.4" timestamp="1294087451000" parser_version="9" git="false">
+          <additional_info authors="Aaron Patterson, Mike Dalessio" email="aaronp@rubyforge.org, mike.dalessio@gmail.com" homepage="http://nokogiri.org">
+            <summary>Nokogiri (鋸) is an HTML, XML, SAX, and Reader parser</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/ruby-debug-base19-0.11.24" name="ruby-debug-base19" version="0.11.24" timestamp="1294087491000" parser_version="9" git="false">
+          <additional_info authors="Kent Sibilev, Mark Moseley" email="mark@fast-software.com" homepage="http://rubyforge.org/projects/ruby-debug19/">
+            <summary>Fast Ruby debugger - core component</summary>
+          </additional_info>
+          <dependency name="columnize" version="0.3.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="ruby_core_source" version="0.1.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="linecache19" version="0.5.11" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/highline-1.6.1" name="highline" version="1.6.1" timestamp="1294087442000" parser_version="9" git="false">
+          <additional_info authors="James Edward Gray II" email="james@grayproductions.net" homepage="http://highline.rubyforge.org">
+            <summary>HighLine is a high-level command-line IO library.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/cucumber-0.10.0" name="cucumber" version="0.10.0" timestamp="1294087475000" parser_version="9" git="false">
+          <additional_info authors="Aslak Hellesøy" email="cukes@googlegroups.com" homepage="http://cukes.info">
+            <summary>cucumber-0.10.0</summary>
+          </additional_info>
+          <dependency name="diff-lcs" version="1.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="builder" version="2.1.2" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="term-ansicolor" version="1.0.5" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="json" version="1.4.6" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="gherkin" version="2.3.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/capistrano-2.5.19" name="capistrano" version="2.5.19" timestamp="1294087443000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck, Lee Hambley" email="jamis@jamisbuck.org, lee.hambley@gmail.com" homepage="http://github.com/capistrano/capistrano">
+            <summary>Capistrano – Welcome to easy deployment with Ruby over SSH</summary>
+          </additional_info>
+          <dependency name="net-ssh-gateway" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="net-scp" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="highline" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="net-sftp" version="2.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="net-ssh" version="2.0.14" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rake-0.8.7" name="rake" version="0.8.7" timestamp="1294087432000" parser_version="9" git="false">
+          <additional_info authors="Jim Weirich" email="jim@weirichhouse.org" homepage="http://rake.rubyforge.org">
+            <summary>Ruby based make-like utility.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/net-scp-1.0.4" name="net-scp" version="1.0.4" timestamp="1294087442000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck, Delano Mandelbaum" email="net-scp@solutious.com" homepage="http://net-ssh.rubyforge.org/scp">
+            <summary>A pure Ruby implementation of the SCP client protocol</summary>
+          </additional_info>
+          <dependency name="net-ssh" version="1.99.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/hpricot-0.8.3" name="hpricot" version="0.8.3" timestamp="1294087484000" parser_version="9" git="false">
+          <additional_info authors="why the lucky stiff" email="why@ruby-lang.org" homepage="http://code.whytheluckystiff.net/hpricot/">
+            <summary>a swift, liberal HTML parser with a fantastic library</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-2.3.0" name="rspec" version="2.3.0" timestamp="1294087476000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec">
+            <summary>rspec-2.3.0</summary>
+          </additional_info>
+          <dependency name="rspec-expectations" version="2.3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rspec-mocks" version="2.3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rspec-core" version="2.3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/childprocess-0.1.6" name="childprocess" version="0.1.6" timestamp="1294087456000" parser_version="9" git="false">
+          <additional_info authors="Jari Bakken" email="jari.bakken@gmail.com" homepage="http://github.com/jarib/childprocess">
+            <summary>Cross-platform ruby library for managing child processes.</summary>
+          </additional_info>
+          <dependency name="ffi" version="0.6.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/polyglot-0.3.1" name="polyglot" version="0.3.1" timestamp="1294087436000" parser_version="9" git="false">
+          <additional_info authors="Clifford Heath" email="cjheath@rubyforge.org" homepage="http://polyglot.rubyforge.org">
+            <summary>Allows custom language loaders for specified file extensions to be hooked into require</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/treetop-1.4.9" name="treetop" version="1.4.9" timestamp="1294087437000" parser_version="9" git="false">
+          <additional_info authors="Nathan Sobo" email="nathansobo@gmail.com" homepage="http://functionalform.blogspot.com">
+            <summary>A Ruby-based text parsing and interpretation DSL</summary>
+          </additional_info>
+          <dependency name="polyglot" version="0.3.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-mocks-2.4.0" name="rspec-mocks" version="2.4.0" timestamp="1294343615000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec-mocks">
+            <summary>rspec-mocks-2.4.0</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/faker-0.3.1" name="faker" version="0.3.1" timestamp="1294087478000" parser_version="9" git="false">
+          <additional_info authors="Benjamin Curtis" email="benjamin.curtis@gmail.com" homepage="http://faker.rubyforge.org">
+            <summary>A port of Perl's Data::Faker - Generates fake names, phone numbers, etc.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-expectations-2.4.0" name="rspec-expectations" version="2.4.0" timestamp="1294343615000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec-expectations">
+            <summary>rspec-expectations-2.4.0</summary>
+          </additional_info>
+          <dependency name="diff-lcs" version="1.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/rspec-rails-2.4.1" name="rspec-rails" version="2.4.1" timestamp="1294343618000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky" email="dchelimsky@gmail.com" homepage="http://github.com/rspec/rspec-rails">
+            <summary>rspec-rails-2.4.1</summary>
+          </additional_info>
+          <dependency name="rspec" version="2.4.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="actionpack" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="railties" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+      </box>
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/bundler/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0/bundler/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@global/bundler/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/bundler/gems" />
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems">
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/net-ssh-gateway-1.0.1" name="net-ssh-gateway" version="1.0.1" timestamp="1294078910000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck" email="jamis@jamisbuck.org" homepage="http://net-ssh.rubyforge.org/gateway">
+            <summary>A simple library to assist in establishing tunneled Net::SSH connections</summary>
+          </additional_info>
+          <dependency name="net-ssh" version="1.99.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/actionmailer-3.0.0" name="actionmailer" version="3.0.0" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Email composition, delivery, and receiving framework (part of Rails).</summary>
+          </additional_info>
+          <dependency name="mail" version="2.2.5" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="actionpack" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/hpricot-0.8.2" name="hpricot" version="0.8.2" timestamp="1294078901000" parser_version="9" git="false">
+          <additional_info authors="why the lucky stiff" email="why@ruby-lang.org" homepage="http://code.whytheluckystiff.net/hpricot/">
+            <summary>a swift, liberal HTML parser with a fantastic library</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/culerity-0.2.12" name="culerity" version="0.2.12" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Alexander Lang" email="alex@upstream-berlin.com" homepage="http://github.com/langalex/culerity">
+            <summary>Culerity integrates Cucumber and Celerity in order to test your application's full stack.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rack-mount-0.6.13" name="rack-mount" version="0.6.13" timestamp="1294078916000" parser_version="9" git="false">
+          <additional_info authors="Joshua Peek" email="josh@joshpeek.com" homepage="http://github.com/josh/rack-mount">
+            <summary>Stackable dynamic tree based Rack router</summary>
+          </additional_info>
+          <dependency name="rack" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/mongoid-2.0.0.beta.17" name="mongoid" version="2.0.0.beta.17" timestamp="1294078916000" parser_version="9" git="false">
+          <additional_info authors="Durran Jordan" email="durran@gmail.com" homepage="http://mongoid.org">
+            <summary>Elegent Persistance in Ruby for MongoDB.</summary>
+          </additional_info>
+          <dependency name="will_paginate" version="3.0.pre" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="tzinfo" version="0.3.22" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="bson" version="1.0.4" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="mongo" version="1.0.7" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/net-scp-1.0.3" name="net-scp" version="1.0.3" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck, Delano Mandelbaum" email="jamis@jamisbuck.org" homepage="http://net-ssh.rubyforge.org/scp">
+            <summary>A pure Ruby implementation of the SCP client protocol</summary>
+          </additional_info>
+          <dependency name="net-ssh" version="1.99.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/bundler-1.0.0" name="bundler" version="1.0.0" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="Carl Lerche, Yehuda Katz, André Arko" email="carlhuda@engineyard.com" homepage="http://gembundler.com">
+            <summary>The best way to manage your application's dependencies</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/tzinfo-0.3.23" name="tzinfo" version="0.3.23" timestamp="1294078911000" parser_version="9" git="false">
+          <additional_info authors="Philip Ross" email="phil.ross@gmail.com" homepage="http://tzinfo.rubyforge.org/">
+            <summary>Daylight-savings aware timezone library</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rspec-mocks-2.0.0.beta.20" name="rspec-mocks" version="2.0.0.beta.20" timestamp="1294078646000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/mocks">
+            <summary>rspec-mocks-2.0.0.beta.20</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/diff-lcs-1.1.2" name="diff-lcs" version="1.1.2" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="N/A" email="diff-lcs@halostatue.ca" homepage="http://rubyforge.org/projects/ruwiki/">
+            <summary>Provides a list of changes that represent the difference between two sequenced collections.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/selenium-webdriver-0.0.28" name="selenium-webdriver" version="0.0.28" timestamp="1294078904000" parser_version="9" git="false">
+          <additional_info authors="Jari Bakken" email="jari.bakken@gmail.com" homepage="http://selenium.googlecode.com">
+            <summary>The next generation developer focused tool for automated testing of webapps</summary>
+          </additional_info>
+          <dependency name="ffi" version="0.6.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="json_pure" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rubyzip" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/activerecord-3.0.0" name="activerecord" version="3.0.0" timestamp="1294078646000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Object-relational mapper framework (part of Rails).</summary>
+          </additional_info>
+          <dependency name="tzinfo" version="0.3.23" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="arel" version="1.0.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/bcrypt-ruby-2.1.2" name="bcrypt-ruby" version="2.1.2" timestamp="1294078910000" parser_version="9" git="false">
+          <additional_info authors="Coda Hale" email="coda.hale@gmail.com" homepage="http://bcrypt-ruby.rubyforge.org">
+            <summary>OpenBSD's bcrypt() password hashing algorithm.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/ruby-debug-base19-0.11.24" name="ruby-debug-base19" version="0.11.24" timestamp="1294078896000" parser_version="9" git="false">
+          <additional_info authors="Kent Sibilev, Mark Moseley" email="mark@fast-software.com" homepage="http://rubyforge.org/projects/ruby-debug19/">
+            <summary>Fast Ruby debugger - core component</summary>
+          </additional_info>
+          <dependency name="columnize" version="0.3.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="ruby_core_source" version="0.1.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="linecache19" version="0.5.11" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/devise-1.1.2" name="devise" version="1.1.2" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="José Valim, Carlos Antônio" email="contact@plataformatec.com.br" homepage="http://github.com/plataformatec/devise">
+            <summary>Flexible authentication solution for Rails with Warden</summary>
+          </additional_info>
+          <dependency name="warden" version="0.10.7" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="bcrypt-ruby" version="2.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/autotest-4.3.2" name="autotest" version="4.3.2" timestamp="1294078916000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis" email="N/A" homepage="http://github.com/grosser/autotest">
+            <summary>Autotest, without ZenTest</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/activeresource-3.0.0" name="activeresource" version="3.0.0" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>REST modeling framework (part of Rails).</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/term-ansicolor-1.0.5" name="term-ansicolor" version="1.0.5" timestamp="1294078901000" parser_version="9" git="false">
+          <additional_info authors="Florian Frank" email="flori@ping.de" homepage="http://flori.github.com/term-ansicolor">
+            <summary>Ruby library that colors strings using ANSI escape sequences</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/capybara-0.3.9" name="capybara" version="0.3.9" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="Jonas Nicklas" email="jonas.nicklas@gmail.com" homepage="http://github.com/jnicklas/capybara">
+            <summary>Capybara aims to simplify the process of integration testing Rack applications, such as Rails, Sinatra or Merb</summary>
+          </additional_info>
+          <dependency name="nokogiri" version="1.3.3" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="mime-types" version="1.16" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack-test" version="0.5.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="selenium-webdriver" version="0.0.3" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="culerity" version="0.2.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rubyzip-0.9.4" name="rubyzip" version="0.9.4" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Thomas Sondergaard" email="thomas(at)sondergaard.cc" homepage="http://rubyzip.sourceforge.net/">
+            <summary>rubyzip is a ruby module for reading and writing zip files</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/net-ssh-2.0.23" name="net-ssh" version="2.0.23" timestamp="1294078910000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck, Delano Mandelbaum" email="net-ssh@solutious.com" homepage="http://github.com/net-ssh/net-ssh">
+            <summary>Net::SSH: a pure-Ruby implementation of the SSH2 client protocol.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/polyglot-0.3.1" name="polyglot" version="0.3.1" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="Clifford Heath" email="cjheath@rubyforge.org" homepage="http://polyglot.rubyforge.org">
+            <summary>Allows custom language loaders for specified file extensions to be hooked into require</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/activemodel-3.0.0" name="activemodel" version="3.0.0" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>A toolkit for building modeling frameworks (part of Rails).</summary>
+          </additional_info>
+          <dependency name="i18n" version="0.4.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="builder" version="2.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/arel-1.0.1" name="arel" version="1.0.1" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="Bryan Helmkamp, Nick Kallen, Emilio Tagua" email="bryan@brynary.com" homepage="http://github.com/brynary/arel">
+            <summary>Arel is a relational algebra engine for Ruby</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rspec-expectations-2.0.0.beta.20" name="rspec-expectations" version="2.0.0.beta.20" timestamp="1294078901000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/expectations">
+            <summary>rspec-expectations-2.0.0.beta.20</summary>
+          </additional_info>
+          <dependency name="diff-lcs" version="1.1.2" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/net-sftp-2.0.5" name="net-sftp" version="2.0.5" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck" email="netsftp@solutious.com" homepage="http://net-ssh.rubyforge.org/sftp">
+            <summary>A pure Ruby implementation of the SFTP client protocol</summary>
+          </additional_info>
+          <dependency name="net-ssh" version="2.0.9" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/linecache19-0.5.11" name="linecache19" version="0.5.11" timestamp="1294078911000" parser_version="9" git="false">
+          <additional_info authors="R. Bernstein, Mark Moseley" email="mark@fast-software.com" homepage="http://rubyforge.org/projects/ruby-debug19">
+            <summary>Read file with caching</summary>
+          </additional_info>
+          <dependency name="ruby_core_source" version="0.1.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/bson-1.0.7" name="bson" version="1.0.7" timestamp="1294078901000" parser_version="9" git="false">
+          <additional_info authors="Jim Menard, Mike Dirolf, Kyle Banker" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>Ruby implementation of BSON</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/ruby_core_source-0.1.4" name="ruby_core_source" version="0.1.4" timestamp="1294078662000" parser_version="9" git="false">
+          <additional_info authors="Mark Moseley" email="mark@fast-software.com" homepage="http://github.com/mark-moseley/ruby_core_source">
+            <summary>Retrieve Ruby core source files</summary>
+          </additional_info>
+          <dependency name="archive-tar-minitar" version="0.5.2" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/columnize-0.3.1" name="columnize" version="0.3.1" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="R. Bernstein" email="rockyb@rubyforge.net" homepage="http://rubyforge.org/projects/rocky-hacks/columnize">
+            <summary>Read file with caching</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/nokogiri-1.4.3.1" name="nokogiri" version="1.4.3.1" timestamp="1294078916000" parser_version="9" git="false">
+          <additional_info authors="Aaron Patterson, Mike Dalessio" email="aaronp@rubyforge.org, mike.dalessio@gmail.com" homepage="http://nokogiri.org">
+            <summary>Nokogiri (鋸) is an HTML, XML, SAX, and Reader parser</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/bson-1.0.4" name="bson" version="1.0.4" timestamp="1294078646000" parser_version="9" git="false">
+          <additional_info authors="Jim Menard, Mike Dirolf, Kyle Banker" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>Ruby implementation of BSON</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rake-0.8.7" name="rake" version="0.8.7" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="Jim Weirich" email="jim@weirichhouse.org" homepage="http://rake.rubyforge.org">
+            <summary>Ruby based make-like utility.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/actionpack-3.0.0" name="actionpack" version="3.0.0" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Web-flow and rendering framework putting the VC in MVC (part of Rails).</summary>
+          </additional_info>
+          <dependency name="rack-test" version="0.5.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="i18n" version="0.4.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="tzinfo" version="0.3.23" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="rack-mount" version="0.6.12" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="erubis" version="2.6.6" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="builder" version="2.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="activemodel" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rack" version="1.2.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rspec-rails-2.0.0.beta.20" name="rspec-rails" version="2.0.0.beta.20" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec-rails">
+            <summary>rspec-rails-2.0.0.beta.20</summary>
+          </additional_info>
+          <dependency name="rspec" version="2.0.0.beta.20" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/cucumber-0.8.5" name="cucumber" version="0.8.5" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="Aslak Hellesøy" email="cukes@googlegroups.com" homepage="http://cukes.info">
+            <summary>Behaviour Driven Development with elegance and joy</summary>
+          </additional_info>
+          <dependency name="diff-lcs" version="1.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="json_pure" version="1.4.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="gherkin" version="2.1.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="builder" version="2.1.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="term-ansicolor" version="1.0.4" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/treetop-1.4.8" name="treetop" version="1.4.8" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="Nathan Sobo" email="nathansobo@gmail.com" homepage="http://functionalform.blogspot.com">
+            <summary>A Ruby-based text parsing and interpretation DSL</summary>
+          </additional_info>
+          <dependency name="polyglot" version="0.3.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/configuration-1.1.0" name="configuration" version="1.1.0" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="Ara T. Howard" email="ara.t.howard@gmail.com" homepage="http://github.com/ahoward/configuration/tree/master">
+            <summary>configuration</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/cucumber-rails-0.3.2" name="cucumber-rails" version="0.3.2" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Dennis Blöte, Aslak Hellesøy, Rob Holland" email="cukes@googlegroups.com" homepage="http://github.com/aslakhellesoy/cucumber-rails">
+            <summary>Cucumber Generators and Runtime for Rails</summary>
+          </additional_info>
+          <dependency name="cucumber" version="0.8.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/mime-types-1.16" name="mime-types" version="1.16" timestamp="1294078660000" parser_version="9" git="false">
+          <additional_info authors="Austin Ziegler" email="austin@rubyforge.org" homepage="http://mime-types.rubyforge.org/">
+            <summary>Manages a MIME Content-Type database that will return the Content-Type for a given filename.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/thor-0.14.0" name="thor" version="0.14.0" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Yehuda Katz, José Valim" email="ruby-thor@googlegroups.com" homepage="http://yehudakatz.com">
+            <summary>A scripting framework that replaces rake, sake and rubigen</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/activesupport-3.0.0" name="activesupport" version="3.0.0" timestamp="1294078916000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>A toolkit of support libraries and Ruby core extensions extracted from the Rails framework.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/mail-2.2.5" name="mail" version="2.2.5" timestamp="1294078910000" parser_version="9" git="false">
+          <additional_info authors="Mikel Lindsaar" email="raasdnil@gmail.com" homepage="http://github.com/mikel/mail">
+            <summary>Mail provides a nice Ruby DSL for making, sending and reading emails.</summary>
+          </additional_info>
+          <dependency name="activesupport" version="2.3.6" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="mime-types" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="treetop" version="1.4.5" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/ruby_parser-2.0.5" name="ruby_parser" version="2.0.5" timestamp="1294078901000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis" email="ryand-ruby@zenspider.com" homepage="http://parsetree.rubyforge.org/">
+            <summary>ruby_parser (RP) is a ruby parser written in pure ruby (utilizing racc--which does by default use a C extension)</summary>
+          </additional_info>
+          <dependency name="sexp_processor" version="3.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/ffi-0.6.3" name="ffi" version="0.6.3" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="Wayne Meissner" email="wmeissner@gmail.com" homepage="http://wiki.github.com/ffi/ffi">
+            <summary>Ruby-FFI is a ruby extension for programmatically loading dynamic libraries, binding functions within them, and calling those functions from Ruby code</summary>
+          </additional_info>
+          <dependency name="rake" version="0.8.7" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/bson_ext-1.0.4" name="bson_ext" version="1.0.4" timestamp="1294078904000" parser_version="9" git="false">
+          <additional_info authors="Mike Dirolf" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>C extensions for Ruby BSON.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/builder-2.1.2" name="builder" version="2.1.2" timestamp="1294078660000" parser_version="9" git="false">
+          <additional_info authors="Jim Weirich" email="jim@weirichhouse.org" homepage="http://onestepback.org">
+            <summary>Builders for MarkUp.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/bson_ext-1.0.7" name="bson_ext" version="1.0.7" timestamp="1294078662000" parser_version="9" git="false">
+          <additional_info authors="Mike Dirolf" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>C extensions for Ruby BSON.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/archive-tar-minitar-0.5.2" name="archive-tar-minitar" version="0.5.2" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Austin Ziegler, Mauricio Ferna'ndez" email="minitar@halostatue.ca" homepage="http://rubyforge.org/projects/ruwiki/">
+            <summary>Provides POSIX tarchive management from Ruby programs.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/capistrano-ext-1.2.1" name="capistrano-ext" version="1.2.1" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck" email="jamis@jamisbuck.org" homepage="http://www.capify.org">
+            <summary>Useful task libraries and methods for Capistrano</summary>
+          </additional_info>
+          <dependency name="capistrano" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/warden-0.10.7" name="warden" version="0.10.7" timestamp="1294078910000" parser_version="9" git="false">
+          <additional_info authors="Daniel Neighman" email="has.sox@gmail.com" homepage="http://github.com/hassox/warden">
+            <summary>Rack middleware that provides authentication for rack applications</summary>
+          </additional_info>
+          <dependency name="rack" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/mongo-1.0.7" name="mongo" version="1.0.7" timestamp="1294078910000" parser_version="9" git="false">
+          <additional_info authors="Jim Menard, Mike Dirolf, Kyle Banker" email="mongodb-dev@googlegroups.com" homepage="http://www.mongodb.org">
+            <summary>Ruby driver for the MongoDB</summary>
+          </additional_info>
+          <dependency name="bson" version="1.0.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/shoulda-2.11.3" name="shoulda" version="2.11.3" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Tammer Saleh, Joe Ferris, Ryan McGeary, Dan Croak, Matt Jankowski" email="support@thoughtbot.com" homepage="http://thoughtbot.com/community/">
+            <summary>Making tests easy on the fingers and eyes</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/highline-1.6.1" name="highline" version="1.6.1" timestamp="1294078901000" parser_version="9" git="false">
+          <additional_info authors="James Edward Gray II" email="james@grayproductions.net" homepage="http://highline.rubyforge.org">
+            <summary>HighLine is a high-level command-line IO library.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rspec-core-2.0.0.beta.20" name="rspec-core" version="2.0.0.beta.20" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Chad Humphries, David Chelimsky" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec-core">
+            <summary>rspec-core-2.0.0.beta.20</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rack-1.2.1" name="rack" version="1.2.1" timestamp="1294078911000" parser_version="9" git="false">
+          <additional_info authors="Christian Neukirchen" email="chneukirchen@gmail.com" homepage="http://rack.rubyforge.org">
+            <summary>a modular Ruby webserver interface</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/will_paginate-3.0.pre2" name="will_paginate" version="3.0.pre2" timestamp="1294078905000" parser_version="9" git="false">
+          <additional_info authors="Mislav Marohnić" email="mislav.marohnic@gmail.com" homepage="http://github.com/mislav/will_paginate/wikis">
+            <summary>Adaptive pagination plugin for web frameworks and other applications</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rack-test-0.5.4" name="rack-test" version="0.5.4" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="Bryan Helmkamp" email="bryan@brynary.com" homepage="http://github.com/brynary/rack-test">
+            <summary>Simple testing API built on Rack</summary>
+          </additional_info>
+          <dependency name="rack" version="1.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/jquery-rails-0.1.2" name="jquery-rails" version="0.1.2" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="André Arko" email="andre@arko.net" homepage="http://rubygems.org/gems/jquery-rails">
+            <summary>Use jQuery with Rails 3</summary>
+          </additional_info>
+          <dependency name="rails" version="3.0.0.rc" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/json_pure-1.4.6" name="json_pure" version="1.4.6" timestamp="1294078660000" parser_version="9" git="false">
+          <additional_info authors="Florian Frank" email="flori@ping.de" homepage="http://flori.github.com/json">
+            <summary>JSON Implementation for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rspec-2.0.0.beta.20" name="rspec" version="2.0.0.beta.20" timestamp="1294078910000" parser_version="9" git="false">
+          <additional_info authors="David Chelimsky, Chad Humphries" email="dchelimsky@gmail.com;chad.humphries@gmail.com" homepage="http://github.com/rspec/rspec">
+            <summary>rspec-2.0.0.beta.20</summary>
+          </additional_info>
+          <dependency name="rspec-mocks" version="2.0.0.beta.20" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rspec-core" version="2.0.0.beta.20" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rspec-expectations" version="2.0.0.beta.20" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/sexp_processor-3.0.5" name="sexp_processor" version="3.0.5" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="Ryan Davis" email="ryand-ruby@zenspider.com" homepage="http://rubyforge.org/projects/parsetree/">
+            <summary>sexp_processor branches from ParseTree bringing all the generic sexp processing tools with it</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/rails-3.0.0" name="rails" version="3.0.0" timestamp="1294078911000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Full-stack web application framework.</summary>
+          </additional_info>
+          <dependency name="activerecord" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="activesupport" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="bundler" version="1.0.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+          <dependency name="actionmailer" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="activeresource" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="railties" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="actionpack" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/gherkin-2.1.5" name="gherkin" version="2.1.5" timestamp="1294078660000" parser_version="9" git="false">
+          <additional_info authors="Mike Sassak, Gregory Hnatiuk, Aslak Hellesøy" email="cukes@googlegroups.com" homepage="http://github.com/aslakhellesoy/gherkin">
+            <summary>Fast Gherkin lexer/parser</summary>
+          </additional_info>
+          <dependency name="trollop" version="1.16.2" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/capistrano-2.5.19" name="capistrano" version="2.5.19" timestamp="1294078910000" parser_version="9" git="false">
+          <additional_info authors="Jamis Buck, Lee Hambley" email="jamis@jamisbuck.org, lee.hambley@gmail.com" homepage="http://github.com/capistrano/capistrano">
+            <summary>Capistrano – Welcome to easy deployment with Ruby over SSH</summary>
+          </additional_info>
+          <dependency name="net-ssh-gateway" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="net-scp" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="highline" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="net-sftp" version="2.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="net-ssh" version="2.0.14" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/haml-3.0.18" name="haml" version="3.0.18" timestamp="1294078904000" parser_version="9" git="false">
+          <additional_info authors="Nathan Weizenbaum, Chris Eppstein, Hampton Catlin" email="haml@googlegroups.com" homepage="http://haml-lang.com/">
+            <summary>An elegant, structured XHTML/XML templating engine. Comes with Sass, a similar CSS templating engine.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/i18n-0.4.1" name="i18n" version="0.4.1" timestamp="1294078903000" parser_version="9" git="false">
+          <additional_info authors="Sven Fuchs, Joshua Harvey, Matt Aimonetti, Stephan Soller, Saimon Moore" email="rails-i18n@googlegroups.com" homepage="http://github.com/svenfuchs/i18n">
+            <summary>New wave Internationalization support for Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/erubis-2.6.6" name="erubis" version="2.6.6" timestamp="1294078903000" parser_version="9" git="false">
+          <additional_info authors="makoto kuwata" email="kwa(at)kuwata-lab.com" homepage="http://www.kuwata-lab.com/erubis/">
+            <summary>a fast and extensible eRuby implementation which supports multi-language</summary>
+          </additional_info>
+          <dependency name="abstract" version="1.0.0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/launchy-0.3.7" name="launchy" version="0.3.7" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="Jeremy Hinegardner" email="jeremy@copiousfreetime.org" homepage="http://copiousfreetime.rubyforge.org/launchy/">
+            <summary>Launchy is helper class for launching cross-platform applications in a fire and forget manner</summary>
+          </additional_info>
+          <dependency name="configuration" version="0.0.5" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rake" version="0.8.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/abstract-1.0.0" name="abstract" version="1.0.0" timestamp="1294078646000" parser_version="9" git="false">
+          <additional_info authors="makoto kuwata" email="N/A" homepage="http://rubyforge.org/projects/abstract">
+            <summary>a library which enable you to define abstract method in Ruby</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/railties-3.0.0" name="railties" version="3.0.0" timestamp="1294078909000" parser_version="9" git="false">
+          <additional_info authors="David Heinemeier Hansson" email="david@loudthinking.com" homepage="http://www.rubyonrails.org">
+            <summary>Tools for creating, working with, and running Rails applications.</summary>
+          </additional_info>
+          <dependency name="activesupport" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="rake" version="0.8.4" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="actionpack" version="3.0.0" bound="EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="thor" version="0.14.0" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/unicorn-1.1.3" name="unicorn" version="1.1.3" timestamp="1294078903000" parser_version="9" git="false">
+          <additional_info authors="Unicorn hackers" email="mongrel-unicorn@rubyforge.org" homepage="http://unicorn.bogomips.org/">
+            <summary>Rack HTTP server for fast clients and Unix</summary>
+          </additional_info>
+          <dependency name="rack" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/trollop-1.16.2" name="trollop" version="1.16.2" timestamp="1294078916000" parser_version="9" git="false">
+          <additional_info authors="William Morgan" email="wmorgan-trollop@masanjin.net" homepage="http://trollop.rubyforge.org">
+            <summary>Trollop is a commandline option parser for Ruby that just gets out of your way.</summary>
+          </additional_info>
+        </gem>
+        <gem url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems/ruby-debug19-0.11.6" name="ruby-debug19" version="0.11.6" timestamp="1294078661000" parser_version="9" git="false">
+          <additional_info authors="Kent Sibilev, Mark Moseley" email="mark@fast-software.com" homepage="http://rubyforge.org/projects/ruby-debug19/">
+            <summary>Command line interface (CLI) for ruby-debug-base</summary>
+          </additional_info>
+          <dependency name="columnize" version="0.3.1" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="linecache19" version="0.5.11" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+          <dependency name="ruby-debug-base19" version="0.11.19" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+        </gem>
+      </box>
+      <box url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@jaeb/bundler/gems" />
+    </myPrecious>
+    <sdk2gems>
+      <sdk2gem sdk="Ruby SDK 1.9.2">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@global/gems" />
+      </sdk2gem>
+      <sdk2gem sdk="Ruby SDK 1.9.2 [global]">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@global/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@global/gems" />
+      </sdk2gem>
+      <sdk2gem sdk="Ruby SDK 1.9.2 [t1d]">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@global/gems" />
+      </sdk2gem>
+      <sdk2gem sdk="Ruby SDK 1.9.2-p136 [global]">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems" />
+      </sdk2gem>
+      <sdk2gem sdk="Ruby SDK 1.9.2-p136">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems" />
+      </sdk2gem>
+      <sdk2gem sdk="Ruby SDK 1.9.2-p136 [t1d]">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems" />
+      </sdk2gem>
+      <sdk2gem sdk="Ruby SDK 1.9.2-p136 [jaeb]">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@jaeb/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@jaeb/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems" />
+      </sdk2gem>
+      <sdk2gem sdk="Ruby SDK 1.9.2-p136 [ruby-1.9.2-p0]">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@ruby-1.9.2-p0/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems" />
+      </sdk2gem>
+      <sdk2gem sdk="Ruby SDK 1.9.2-p136 [diaspora]">
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@diaspora/bundler/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@diaspora/gems" />
+        <gemBox url="file://$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems" />
+      </sdk2gem>
+    </sdk2gems>
+  </component>
+  <component name="RemoteGemsState" version="0">
+    <entry url="http://gems.rubyonrails.org/" />
+    <entry url="http://gems.github.com" />
+  </component>
+</application>
+

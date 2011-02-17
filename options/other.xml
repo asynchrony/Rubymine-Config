@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Inspections</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Ruby</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Bash</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="BaseRefactoringSettings">
+    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
+    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  </component>
+  <component name="FindSettings">
+    <option name="SEARCH_OVERLOADED_METHODS" value="false" />
+    <option name="SEARCH_IN_LIBRARIES" value="false" />
+    <option name="SEARCH_FOR_TEXT_OCCURENCES" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
+    <option name="FIND_DIRECTION" value="forward" />
+    <option name="FIND_ORIGIN" value="from_cursor" />
+    <option name="FIND_SCOPE" value="global" />
+    <option name="FIND_CUSTOM_SCOPE" />
+    <option name="CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="PRESERVE_CASE_REPLACE" value="false" />
+    <option name="WHOLE_WORDS_ONLY" value="false" />
+    <option name="COMMENTS_ONLY" value="false" />
+    <option name="STRING_LITERALS_ONLY" value="false" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
+    <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="WITH_SUBDIRECTORIES" value="true" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" />
+    <option name="RECENT_FIND_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="selenium_remote_internet_explorer_8" />
+          <item index="1" class="java.lang.String" itemvalue="parentformcode" />
+          <item index="2" class="java.lang.String" itemvalue="RACK" />
+          <item index="3" class="java.lang.String" itemvalue="decline_connection" />
+          <item index="4" class="java.lang.String" itemvalue="destroy_connection" />
+          <item index="5" class="java.lang.String" itemvalue="in_users" />
+          <item index="6" class="java.lang.String" itemvalue="downcase_email" />
+          <item index="7" class="java.lang.String" itemvalue="reset_pass" />
+          <item index="8" class="java.lang.String" itemvalue="send" />
+          <item index="9" class="java.lang.String" itemvalue="info" />
+          <item index="10" class="java.lang.String" itemvalue="puts" />
+          <item index="11" class="java.lang.String" itemvalue="console" />
+          <item index="12" class="java.lang.String" itemvalue="setupConfirmation" />
+          <item index="13" class="java.lang.String" itemvalue="dialog" />
+          <item index="14" class="java.lang.String" itemvalue="displayConfirmationDialog" />
+          <item index="15" class="java.lang.String" itemvalue="confirmation:view" />
+          <item index="16" class="java.lang.String" itemvalue="jsMembershipChangeForm" />
+          <item index="17" class="java.lang.String" itemvalue="remove_from_circle" />
+          <item index="18" class="java.lang.String" itemvalue="avatar_filename" />
+          <item index="19" class="java.lang.String" itemvalue="@wip" />
+          <item index="20" class="java.lang.String" itemvalue="acl_field" />
+          <item index="21" class="java.lang.String" itemvalue="test_model_class_" />
+          <item index="22" class="java.lang.String" itemvalue="members" />
+          <item index="23" class="java.lang.String" itemvalue="non" />
+          <item index="24" class="java.lang.String" itemvalue=", :type =&gt; Boolean, :default =&gt; false" />
+          <item index="25" class="java.lang.String" itemvalue="checkbox should not be checked" />
+          <item index="26" class="java.lang.String" itemvalue="add_circle_to_field" />
+          <item index="27" class="java.lang.String" itemvalue="remove_circle_from_acls" />
+          <item index="28" class="java.lang.String" itemvalue="CircleAclFieldRelationship" />
+          <item index="29" class="java.lang.String" itemvalue="create_default_connections_circle_of_trust" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_REPLACE_STRINGS">
+      <value>
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="false" />
+          <item index="1" class="java.lang.String" itemvalue="Disconnect" />
+          <item index="2" class="java.lang.String" itemvalue="old_connection" />
+          <item index="3" class="java.lang.String" itemvalue="#disconnect_submit" />
+          <item index="4" class="java.lang.String" itemvalue="disconnect_link" />
+          <item index="5" class="java.lang.String" itemvalue="disconnection_button_selector" />
+          <item index="6" class="java.lang.String" itemvalue="successfulDisconnectionRequest" />
+          <item index="7" class="java.lang.String" itemvalue="updateDisconnectButton" />
+          <item index="8" class="java.lang.String" itemvalue="unbindDisconnectButton" />
+          <item index="9" class="java.lang.String" itemvalue=".t1dWidget.Disconnect" />
+          <item index="10" class="java.lang.String" itemvalue="successfulDisconnection" />
+          <item index="11" class="java.lang.String" itemvalue="errorDisconnection" />
+          <item index="12" class="java.lang.String" itemvalue="generate_inheritance_indicator" />
+          <item index="13" class="java.lang.String" itemvalue="circles_of_trust" />
+          <item index="14" class="java.lang.String" itemvalue="edit_sitewide_circle_of_trust_path" />
+          <item index="15" class="java.lang.String" itemvalue="edit_circle_of_trust_path" />
+          <item index="16" class="java.lang.String" itemvalue="circle_of_trust_path" />
+          <item index="17" class="java.lang.String" itemvalue="circle_of_trust_invited_to" />
+          <item index="18" class="java.lang.String" itemvalue="in the circle of trust list" />
+          <item index="19" class="java.lang.String" itemvalue="the circle of trust" />
+          <item index="20" class="java.lang.String" itemvalue="I create a custom circle of trust" />
+          <item index="21" class="java.lang.String" itemvalue="circle_of_trust" />
+          <item index="22" class="java.lang.String" itemvalue="newCircleOfTrustLink.loadModal" />
+          <item index="23" class="java.lang.String" itemvalue="CustomCircleOfTrust" />
+          <item index="24" class="java.lang.String" itemvalue="@test_class_object" />
+          <item index="25" class="java.lang.String" itemvalue="And I fill in &quot;Search&quot; with &quot;friendlyjoe&quot;" />
+          <item index="26" class="java.lang.String" itemvalue="Given I log in as &quot;A1CDude&quot;" />
+          <item index="27" class="java.lang.String" itemvalue="Searcher" />
+          <item index="28" class="java.lang.String" itemvalue="debug" />
+          <item index="29" class="java.lang.String" itemvalue="" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_DIR_STRINGS">
+      <value>
+        <list size="26">
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems/devise-1.1.2/lib/devise/models" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems/devise-1.1.2/lib" />
+          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/devise/sessions" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/layouts" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems/devise-1.1.2/" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/controllers" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/controllers" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/models" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/public" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/javascripts/fixtures" />
+          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/public/javascripts" />
+          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/javascripts" />
+          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/circles_of_trust" />
+          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/shared/circles_of_trust" />
+          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app" />
+          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views" />
+          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-webdriver-0.1.2" />
+          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-webdriver-0.1.2/lib/selenium/webdriver/remote" />
+          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-client-1.2.18/lib/selenium/client" />
+          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-webdriver-0.1.2/lib/selenium/client" />
+          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-webdriver-0.1.2/lib" />
+          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/step_definitions" />
+          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features" />
+          <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d" />
+        </list>
+      </value>
+    </option>
+    <option name="RECENT_FILE_MASKS">
+      <value>
+        <list size="13">
+          <item index="0" class="java.lang.String" itemvalue="*.properties" />
+          <item index="1" class="java.lang.String" itemvalue="*.html" />
+          <item index="2" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="3" class="java.lang.String" itemvalue="*.xml" />
+          <item index="4" class="java.lang.String" itemvalue="*.java" />
+          <item index="5" class="java.lang.String" itemvalue="*.php" />
+          <item index="6" class="java.lang.String" itemvalue="*.as" />
+          <item index="7" class="java.lang.String" itemvalue="*.css" />
+          <item index="8" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="9" class="java.lang.String" itemvalue="*.rb" />
+          <item index="10" class="java.lang.String" itemvalue="*.js" />
+          <item index="11" class="java.lang.String" itemvalue="*_spec.rb" />
+          <item index="12" class="java.lang.String" itemvalue="*.haml" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="HttpConfigurable">
+    <option name="plainProxyPassword" value="" />
+    <option name="USE_HTTP_PROXY" value="false" />
+    <option name="PROXY_HOST" value="" />
+    <option name="PROXY_PORT" value="80" />
+    <option name="PROXY_AUTHENTICATION" value="false" />
+    <option name="PROXY_LOGIN" value="" />
+    <option name="PROXY_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_PROXY_PASSWORD" value="false" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="" version="1">
+    <option name="AVAILABLE_SORT_COLUMN" value="0" />
+    <option name="INSTALLED_SORT_COLUMN" value="1" />
+    <option name="CART_SORT_COLUMN" value="0" />
+    <option name="AVAILABLE_SORT_COLUMN_ORDER" value="0" />
+    <option name="INSTALLED_SORT_COLUMN_ORDER" value="0" />
+    <option name="CART_SORT_COLUMN_ORDER" value="0" />
+    <available>
+      <option name="myProportion" value="75:70:75:75" />
+    </available>
+    <installed>
+      <option name="myProportion" />
+    </installed>
+  </component>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/workspace/t1d" />
+        <option value="$USER_HOME$/workspace/jaeb_data_ws" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/workspace/t1d" />
+  </component>
+  <component name="TemplateSettings">
+    <defaultShortcut shortcut="TAB" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
+      <option name="FOREGROUND" value="ff" />
+      <option name="BACKGROUND" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" />
+      <option name="EFFECT_TYPE" value="0" />
+      <option name="ERROR_STRIPE_COLOR" value="ff" />
+    </pattern>
+  </component>
+  <component name="UpdatesConfigurable">
+    <option name="myPluginHosts">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myKnownUpdateChannels">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="CHECK_NEEDED" value="true" />
+    <option name="LAST_TIME_CHECKED" value="1297895012720" />
+  </component>
+  <component name="XDebuggerSettings">
+    <debuggers>
+      <debugger id="javascript">
+        <configuration />
+      </debugger>
+      <debugger id="ruby">
+        <configuration />
+      </debugger>
+    </debuggers>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <deleted_templates>
+      <option name="DELETED_DEFAULT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </deleted_templates>
+    <deleted_includes>
+      <option name="DELETED_DEFAULT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </deleted_includes>
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="JavaScript File" />
+            <item index="1" class="java.lang.String" itemvalue="RSpec Test Template" />
+            <item index="2" class="java.lang.String" itemvalue="Ruby Class Template" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+    <templates>
+      <internal_template name="Html" reformat="true" />
+      <internal_template name="Html5" reformat="true" />
+      <internal_template name="Xhtml" reformat="true" />
+      <internal_template name="ActionScript Class" reformat="true" />
+      <internal_template name="ActionScript Interface" reformat="true" />
+      <template name="Erb File.html" reformat="true" />
+      <template name="JavaScript File" reformat="true" />
+      <template name="RSpec Test Template" reformat="true" />
+      <template name="Ruby Class Template" reformat="true" />
+      <template name="Test-Spec Template" reformat="true" />
+      <template name="TestUnit Test Template" reformat="true" />
+    </templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl">
+    <enableFiles value="false" />
+    <enableFolders value="false" />
+    <filesTool value="" newValue="" />
+    <foldersTool value="" newValue="" />
+  </component>
+  <component name="com.intellij.psi.impl.source.codeStyle.CodeStyleSchemesImpl">
+    <option name="CURRENT_SCHEME_NAME" value="t1d" />
+  </component>
+</application>
+
