@@ -15,7 +15,6 @@
   </option>
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-  <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="false" />
   <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
   <ADDITIONAL_INDENT_OPTIONS fileType="feature">
     <option name="INDENT_SIZE" value="2" />

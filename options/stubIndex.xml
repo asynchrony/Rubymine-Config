@@ -3,6 +3,7 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="sql.names" />
         <option value="Ruby.symbol.name" />
         <option value="Ruby.class.module.shortName" />
         <option value="Ruby.inheritance.shortName" />
@@ -13,6 +14,8 @@
         <option value="js.members.shortName" />
         <option value="JS.class.implements" />
         <option value="JS.class.super" />
+        <option value="sql.column.name" />
+        <option value="sql.table.shortName" />
       </list>
     </option>
   </component>

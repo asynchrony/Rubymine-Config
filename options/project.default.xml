@@ -2,6 +2,7 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
+      <component name="CoverageDataManager" choice="3" />
       <component name="DaemonCodeAnalyzer">
         <disable_hints />
       </component>
@@ -9,7 +10,7 @@
         <option name="SKIP_IMPORT_STATEMENTS" value="false" />
       </component>
       <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
-      <component name="ProjectLevelVcsManager">
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
         <OptionsSetting value="true" id="Checkout" />
@@ -34,7 +35,6 @@
         <option name="USER" value="" />
         <option name="PASSWORD" value="" />
         <option name="LAST_MERGED_REVISION" />
-        <option name="UPDATE_RUN_STATUS" value="false" />
         <option name="MERGE_DRY_RUN" value="false" />
         <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
         <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
@@ -43,6 +43,7 @@
         <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
         <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
         <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+        <option name="FORCE_UPDATE" value="false" />
         <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
       </component>
       <component name="VcsDirectoryMappings" defaultProject="true">
@@ -61,6 +62,7 @@
         <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
         <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
         <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+        <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
         <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
         <option name="LAST_COMMIT_MESSAGE" />
         <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />

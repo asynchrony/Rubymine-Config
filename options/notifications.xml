@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Gems" displayType="NONE" />
-    <notification groupId="settings" displayType="BALLOON" />
+    <notification groupId="Plugin Error" displayType="BALLOON" />
     <notification groupId="RVM Support" displayType="BALLOON" />
+    <notification groupId="settings" displayType="BALLOON" />
+    <notification groupId="Gems" displayType="NONE" />
   </component>
 </application>
 

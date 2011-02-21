@@ -14,7 +14,6 @@
     </value>
   </option>
   <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-  <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="false" />
   <ADDITIONAL_INDENT_OPTIONS fileType="feature">
     <option name="INDENT_SIZE" value="2" />
     <option name="CONTINUATION_INDENT_SIZE" value="8" />

@@ -2,6 +2,7 @@
 <application>
   <component name="FeatureUsageStatistics" first-run="1284538823686" have-been-shown="true" show-in-other="true" show-in-compilation="true">
     <feature id="codeassists.surroundwith.statement" count="0" last-shown="1288893078861" last-used="0" average-frequency="0" shown-count="3" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
     <feature id="navigation.popup.camelprefix" count="240" last-shown="0" last-used="1297982184124" average-frequency="10294556" shown-count="0" />
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" average-frequency="0" shown-count="0" />
     <feature id="codeassists.comment.line" count="581" last-shown="0" last-used="1297900934067" average-frequency="7453823" shown-count="0" />
