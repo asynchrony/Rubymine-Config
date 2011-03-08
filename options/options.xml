@@ -18,6 +18,7 @@
     <location key="git4idea.ui.GitFetchDialog.0.24.1600.1152" x="478" y="268" />
     <location key="FileChooserDialogImpl.0.0.1600.1200" x="626" y="356" />
     <location key="git4idea.ui.GitFetchDialog.0.0.1600.1200" x="477" y="264" />
+    <location key="dock-window-1.0.24.1600.1152" x="1600" y="94" />
     <location key="replaceTextDialog.0.24.1600.1152" x="2086" y="576" />
     <location key="CommitChangelistDialog.0.24.1600.1152" x="299" y="266" />
     <location key="#Updates.0.24.1600.1152" x="396" y="450" />
@@ -30,7 +31,8 @@
     <location key="FileChooserDialogImpl" x="601" y="335" />
     <location key="git4idea.checkin.GitPushDialog.0.0.1600.1200" x="508" y="413" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1600.1200" x="140" y="125" />
-    <location key="DiffWindow.0.24.1600.1152" x="163" y="159" />
+    <location key="DiffWindow.0.24.1600.1152" x="1599" y="0" />
+    <location key="ProcessPopupWindow" x="453" y="630" />
     <location key="FileChooserDialogImpl.0.24.1600.1152" x="583" y="337" />
     <location key="VCS.ChangeListViewerDialog.0.24.1600.1152" x="2042" y="342" />
     <location key="replaceTextDialog.0.0.1600.1200" x="2522" y="457" />
@@ -57,6 +59,7 @@
     <size key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.24.1600.1152" width="518" height="587" />
     <size key="javadoc.popup.0.0.1600.1200" width="504" height="75" />
     <size key="FileChooserDialogImpl.0.0.1600.1200" width="418" height="487" />
+    <size key="dock-window-1.0.24.1600.1152" width="1578" height="1082" />
     <size key="replaceTextDialog.0.24.1600.1152" width="665" height="422" />
     <size key="CommitChangelistDialog.0.24.1600.1152" width="895" height="648" />
     <size key="#Updates.0.24.1600.1152" width="790" height="423" />
@@ -64,8 +67,9 @@
     <size key="git4idea.rebase.GitRebaseDialog.1600.0.1600.1200" width="407" height="304" />
     <size key="replaceTextDialog.1600.0.1600.1200" width="430" height="339" />
     <size key="FileChooserDialogImpl" width="418" height="523" />
-    <size key="DiffWindow.0.24.1600.1152" width="1189" height="1017" />
+    <size key="DiffWindow.0.24.1600.1152" width="1602" height="1205" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1600.1200" width="1400" height="951" />
+    <size key="ProcessPopupWindow" width="962" height="380" />
     <size key="FileChooserDialogImpl.0.24.1600.1152" width="418" height="528" />
     <size key="VCS.ChangeListViewerDialog.0.24.1600.1152" width="707" height="522" />
     <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1600.1200" width="700" height="500" />
@@ -76,7 +80,8 @@
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
     <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
-    <extendedState key="DiffWindow" state="0" />
+    <extendedState key="dock-window-1" state="0" />
+    <extendedState key="DiffWindow" state="6" />
   </component>
   <component name="LafManager">
     <laf class-name="com.incors.plaf.alloy.AlloyBedouin" />
@@ -91,6 +96,7 @@
     <property name="FileTemplates.CurrentTab" value="Templates" />
     <property name="file.colors.enable.tests" value="e7fadb" />
     <property name="file.colors.enable.non.project" value="ffffe4" />
+    <property name="rails.run.generators.popup.search.mask" value="migrat" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION" value="0.5" />
     <property name="KEYMAP" value="find" />
     <property name="IMMEDIATE_FATAL_ERROR_POPUP" value="false" />
@@ -98,7 +104,7 @@
     <property name="Tests" value="e7fadb" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="Ruby.encodingUpdated" value="true" />
-    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/workspace/jasmine-jquery/spec/suites&#10;/home/dev1/workspace/jaeb_data_ws/spec/lib/loggers&#10;/home/dev1/workspace/jaeb_data_ws/lib/loggers&#10;/home/dev1/workspace/jaeb_data_ws/lib&#10;/home/dev1/workspace/jaeb_data_ws/spec/lib/middleware" />
+    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/workspace/t1d/app/views/questions_of_the_day&#10;/home/dev1/workspace/t1d/spec/controllers/questions_of_the_day&#10;/home/dev1/workspace/t1d/app/controllers/questions_of_the_day&#10;/home/dev1/workspace/t1d/spec/models/question_of_the_day&#10;/home/dev1/workspace/t1d/app/models/question_of_the_day" />
     <property name="FileTemplates.SelectedTemplate" value="JavaScript File" />
     <property name="evlsprt2.5" value="12b32acb05d" />
   </component>

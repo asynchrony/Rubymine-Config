@@ -5,6 +5,7 @@
     <notification groupId="RVM Support" displayType="BALLOON" />
     <notification groupId="settings" displayType="BALLOON" />
     <notification groupId="Gems" displayType="NONE" />
+    <notification groupId="Indexing" displayType="BALLOON_ONLY" />
   </component>
 </application>
 

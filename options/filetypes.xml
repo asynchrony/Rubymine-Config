@@ -3,6 +3,7 @@
   <component name="FileTypeManager" version="8">
     <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;" />
     <extensionMap>
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="markdown" type="PLAIN_TEXT" />
     </extensionMap>

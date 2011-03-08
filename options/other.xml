@@ -25,7 +25,7 @@
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
@@ -33,7 +33,6 @@
   <component name="FindSettings">
     <option name="SEARCH_OVERLOADED_METHODS" value="false" />
     <option name="SEARCH_IN_LIBRARIES" value="false" />
-    <option name="SEARCH_FOR_TEXT_OCCURENCES" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="false" />
     <option name="FIND_DIRECTION" value="forward" />
     <option name="FIND_ORIGIN" value="from_cursor" />
@@ -48,83 +47,83 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
     <option name="REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="selenium_remote_internet_explorer_8" />
-          <item index="1" class="java.lang.String" itemvalue="parentformcode" />
-          <item index="2" class="java.lang.String" itemvalue="RACK" />
-          <item index="3" class="java.lang.String" itemvalue="decline_connection" />
-          <item index="4" class="java.lang.String" itemvalue="destroy_connection" />
-          <item index="5" class="java.lang.String" itemvalue="in_users" />
-          <item index="6" class="java.lang.String" itemvalue="downcase_email" />
-          <item index="7" class="java.lang.String" itemvalue="reset_pass" />
-          <item index="8" class="java.lang.String" itemvalue="send" />
-          <item index="9" class="java.lang.String" itemvalue="info" />
-          <item index="10" class="java.lang.String" itemvalue="puts" />
-          <item index="11" class="java.lang.String" itemvalue="console" />
-          <item index="12" class="java.lang.String" itemvalue="setupConfirmation" />
-          <item index="13" class="java.lang.String" itemvalue="dialog" />
-          <item index="14" class="java.lang.String" itemvalue="displayConfirmationDialog" />
-          <item index="15" class="java.lang.String" itemvalue="confirmation:view" />
-          <item index="16" class="java.lang.String" itemvalue="jsMembershipChangeForm" />
-          <item index="17" class="java.lang.String" itemvalue="remove_from_circle" />
-          <item index="18" class="java.lang.String" itemvalue="avatar_filename" />
-          <item index="19" class="java.lang.String" itemvalue="@wip" />
-          <item index="20" class="java.lang.String" itemvalue="acl_field" />
-          <item index="21" class="java.lang.String" itemvalue="test_model_class_" />
-          <item index="22" class="java.lang.String" itemvalue="members" />
-          <item index="23" class="java.lang.String" itemvalue="non" />
-          <item index="24" class="java.lang.String" itemvalue=", :type =&gt; Boolean, :default =&gt; false" />
-          <item index="25" class="java.lang.String" itemvalue="checkbox should not be checked" />
-          <item index="26" class="java.lang.String" itemvalue="add_circle_to_field" />
-          <item index="27" class="java.lang.String" itemvalue="remove_circle_from_acls" />
-          <item index="28" class="java.lang.String" itemvalue="CircleAclFieldRelationship" />
-          <item index="29" class="java.lang.String" itemvalue="create_default_connections_circle_of_trust" />
+          <item index="0" class="java.lang.String" itemvalue="subject" />
+          <item index="1" class="java.lang.String" itemvalue="confirm-button" />
+          <item index="2" class="java.lang.String" itemvalue="an enrolled user with email" />
+          <item index="3" class="java.lang.String" itemvalue="find_for_authentication" />
+          <item index="4" class="java.lang.String" itemvalue="Forgot your password?" />
+          <item index="5" class="java.lang.String" itemvalue="def confirmed" />
+          <item index="6" class="java.lang.String" itemvalue="have requested to reset your password" />
+          <item index="7" class="java.lang.String" itemvalue="I forgot my password" />
+          <item index="8" class="java.lang.String" itemvalue="Password reset instructions were successfully sent to" />
+          <item index="9" class="java.lang.String" itemvalue="send_instructions" />
+          <item index="10" class="java.lang.String" itemvalue="set_flash_message" />
+          <item index="11" class="java.lang.String" itemvalue="profiles" />
+          <item index="12" class="java.lang.String" itemvalue="send_reset_password_instructions" />
+          <item index="13" class="java.lang.String" itemvalue="send_" />
+          <item index="14" class="java.lang.String" itemvalue="Could not reset password" />
+          <item index="15" class="java.lang.String" itemvalue="question" />
+          <item index="16" class="java.lang.String" itemvalue="edit_custom_circle_of_trust_membership_groups" />
+          <item index="17" class="java.lang.String" itemvalue=".with_options" />
+          <item index="18" class="java.lang.String" itemvalue="with" />
+          <item index="19" class="java.lang.String" itemvalue="cucumber" />
+          <item index="20" class="java.lang.String" itemvalue="question_of_the_day_results" />
+          <item index="21" class="java.lang.String" itemvalue="question_of_the_day_result" />
+          <item index="22" class="java.lang.String" itemvalue="QuestionOfTheDayController" />
+          <item index="23" class="java.lang.String" itemvalue="Choice" />
+          <item index="24" class="java.lang.String" itemvalue="Vote" />
+          <item index="25" class="java.lang.String" itemvalue="contro" />
+          <item index="26" class="java.lang.String" itemvalue="QuestionOfTheDay" />
+          <item index="27" class="java.lang.String" itemvalue="QotdQuestion" />
+          <item index="28" class="java.lang.String" itemvalue="QotdAnswer" />
+          <item index="29" class="java.lang.String" itemvalue="answers" />
         </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="false" />
-          <item index="1" class="java.lang.String" itemvalue="Disconnect" />
-          <item index="2" class="java.lang.String" itemvalue="old_connection" />
-          <item index="3" class="java.lang.String" itemvalue="#disconnect_submit" />
-          <item index="4" class="java.lang.String" itemvalue="disconnect_link" />
-          <item index="5" class="java.lang.String" itemvalue="disconnection_button_selector" />
-          <item index="6" class="java.lang.String" itemvalue="successfulDisconnectionRequest" />
-          <item index="7" class="java.lang.String" itemvalue="updateDisconnectButton" />
-          <item index="8" class="java.lang.String" itemvalue="unbindDisconnectButton" />
-          <item index="9" class="java.lang.String" itemvalue=".t1dWidget.Disconnect" />
-          <item index="10" class="java.lang.String" itemvalue="successfulDisconnection" />
-          <item index="11" class="java.lang.String" itemvalue="errorDisconnection" />
-          <item index="12" class="java.lang.String" itemvalue="generate_inheritance_indicator" />
-          <item index="13" class="java.lang.String" itemvalue="circles_of_trust" />
-          <item index="14" class="java.lang.String" itemvalue="edit_sitewide_circle_of_trust_path" />
-          <item index="15" class="java.lang.String" itemvalue="edit_circle_of_trust_path" />
-          <item index="16" class="java.lang.String" itemvalue="circle_of_trust_path" />
-          <item index="17" class="java.lang.String" itemvalue="circle_of_trust_invited_to" />
-          <item index="18" class="java.lang.String" itemvalue="in the circle of trust list" />
-          <item index="19" class="java.lang.String" itemvalue="the circle of trust" />
-          <item index="20" class="java.lang.String" itemvalue="I create a custom circle of trust" />
-          <item index="21" class="java.lang.String" itemvalue="circle_of_trust" />
-          <item index="22" class="java.lang.String" itemvalue="newCircleOfTrustLink.loadModal" />
-          <item index="23" class="java.lang.String" itemvalue="CustomCircleOfTrust" />
-          <item index="24" class="java.lang.String" itemvalue="@test_class_object" />
-          <item index="25" class="java.lang.String" itemvalue="And I fill in &quot;Search&quot; with &quot;friendlyjoe&quot;" />
-          <item index="26" class="java.lang.String" itemvalue="Given I log in as &quot;A1CDude&quot;" />
-          <item index="27" class="java.lang.String" itemvalue="Searcher" />
-          <item index="28" class="java.lang.String" itemvalue="debug" />
-          <item index="29" class="java.lang.String" itemvalue="" />
+          <item index="0" class="java.lang.String" itemvalue="disconnect_link" />
+          <item index="1" class="java.lang.String" itemvalue="disconnection_button_selector" />
+          <item index="2" class="java.lang.String" itemvalue="successfulDisconnectionRequest" />
+          <item index="3" class="java.lang.String" itemvalue="updateDisconnectButton" />
+          <item index="4" class="java.lang.String" itemvalue="unbindDisconnectButton" />
+          <item index="5" class="java.lang.String" itemvalue=".t1dWidget.Disconnect" />
+          <item index="6" class="java.lang.String" itemvalue="successfulDisconnection" />
+          <item index="7" class="java.lang.String" itemvalue="errorDisconnection" />
+          <item index="8" class="java.lang.String" itemvalue="generate_inheritance_indicator" />
+          <item index="9" class="java.lang.String" itemvalue="circles_of_trust" />
+          <item index="10" class="java.lang.String" itemvalue="edit_sitewide_circle_of_trust_path" />
+          <item index="11" class="java.lang.String" itemvalue="edit_circle_of_trust_path" />
+          <item index="12" class="java.lang.String" itemvalue="circle_of_trust_path" />
+          <item index="13" class="java.lang.String" itemvalue="circle_of_trust_invited_to" />
+          <item index="14" class="java.lang.String" itemvalue="in the circle of trust list" />
+          <item index="15" class="java.lang.String" itemvalue="the circle of trust" />
+          <item index="16" class="java.lang.String" itemvalue="I create a custom circle of trust" />
+          <item index="17" class="java.lang.String" itemvalue="circle_of_trust" />
+          <item index="18" class="java.lang.String" itemvalue="newCircleOfTrustLink.loadModal" />
+          <item index="19" class="java.lang.String" itemvalue="CustomCircleOfTrust" />
+          <item index="20" class="java.lang.String" itemvalue="@test_class_object" />
+          <item index="21" class="java.lang.String" itemvalue="And I fill in &quot;Search&quot; with &quot;friendlyjoe&quot;" />
+          <item index="22" class="java.lang.String" itemvalue="Given I log in as &quot;A1CDude&quot;" />
+          <item index="23" class="java.lang.String" itemvalue="Searcher" />
+          <item index="24" class="java.lang.String" itemvalue="debug" />
+          <item index="25" class="java.lang.String" itemvalue="" />
+          <item index="26" class="java.lang.String" itemvalue="QuestionOfTheDay::Vote" />
+          <item index="27" class="java.lang.String" itemvalue="QuestionOfTheDay" />
+          <item index="28" class="java.lang.String" itemvalue="QuestionOfTheDay::Choice" />
+          <item index="29" class="java.lang.String" itemvalue="choices" />
         </list>
       </value>
     </option>
     <option name="RECENT_DIR_STRINGS">
       <value>
-        <list size="26">
+        <list size="27">
           <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems" />
           <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems/devise-1.1.2/lib/devise/models" />
           <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems/devise-1.1.2/lib" />
@@ -151,6 +150,7 @@
           <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/step_definitions" />
           <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features" />
           <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d" />
+          <item index="26" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/sitewide_circle_of_trust" />
         </list>
       </value>
     </option>
@@ -237,7 +237,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1298306540110" />
+    <option name="LAST_TIME_CHECKED" value="1299520946332" />
   </component>
   <component name="XDebuggerSettings">
     <data-views />
@@ -270,8 +270,8 @@
         <value>
           <list size="3">
             <item index="0" class="java.lang.String" itemvalue="JavaScript File" />
-            <item index="1" class="java.lang.String" itemvalue="RSpec Test Template" />
-            <item index="2" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="1" class="java.lang.String" itemvalue="Ruby Class Template" />
+            <item index="2" class="java.lang.String" itemvalue="RSpec Test Template" />
           </list>
         </value>
       </option>
@@ -293,7 +293,7 @@
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
     <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
-  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl">
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces">
     <enableFiles value="false" />
     <enableFolders value="false" />
     <filesTool value="" newValue="" />
