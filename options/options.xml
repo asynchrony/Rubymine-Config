@@ -13,6 +13,7 @@
     <location key="DiffWindow.0.0.1600.1200" x="1633" y="82" />
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.24.1600.1152" x="511" y="402" />
     <location key="OptionsEditor.1600.0.1600.1200" x="1787" y="167" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1600.1200" x="526" y="447" />
     <location key="OptionsEditor.0.0.1600.1200" x="336" y="115" />
     <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.24.1600.1152" x="1074" y="307" />
     <location key="git4idea.ui.GitFetchDialog.0.24.1600.1152" x="478" y="268" />
@@ -35,7 +36,7 @@
     <location key="ProcessPopupWindow" x="453" y="630" />
     <location key="FileChooserDialogImpl.0.24.1600.1152" x="583" y="337" />
     <location key="VCS.ChangeListViewerDialog.0.24.1600.1152" x="2042" y="342" />
-    <location key="replaceTextDialog.0.0.1600.1200" x="2522" y="457" />
+    <location key="replaceTextDialog.0.0.1600.1200" x="2399" y="457" />
     <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1600.1200" x="900" y="350" />
     <location key="CommitChangelistDialog.0.0.1600.1200" x="323" y="241" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1600.0.1600.1200" x="1987" y="281" />
@@ -104,7 +105,6 @@
     <property name="Tests" value="e7fadb" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="Ruby.encodingUpdated" value="true" />
-    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/workspace/t1d/app/views/questions_of_the_day&#10;/home/dev1/workspace/t1d/spec/controllers/questions_of_the_day&#10;/home/dev1/workspace/t1d/app/controllers/questions_of_the_day&#10;/home/dev1/workspace/t1d/spec/models/question_of_the_day&#10;/home/dev1/workspace/t1d/app/models/question_of_the_day" />
     <property name="FileTemplates.SelectedTemplate" value="JavaScript File" />
     <property name="evlsprt2.5" value="12b32acb05d" />
   </component>

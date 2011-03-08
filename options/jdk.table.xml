@@ -245,7 +245,7 @@
       <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="jaeb" RVM_IGNORE_GLOBAL="jaeb" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" />
     </jdk>
     <jdk version="2">
-      <name value="Ruby SDK 1.9.2-p136 [remarkable_mongoid]" />
+      <name value="Ruby SDK 1.9.2-p136 [conf_ask]" />
       <type value="RUBY_SDK" />
       <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin/ruby" />
       <roots>
@@ -276,7 +276,7 @@
           </root>
         </sourcePath>
       </roots>
-      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="remarkable_mongoid" RVM_IGNORE_GLOBAL="remarkable_mongoid" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" />
+      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="conf_ask" RVM_IGNORE_GLOBAL="conf_ask" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" />
     </jdk>
   </component>
 </application>
