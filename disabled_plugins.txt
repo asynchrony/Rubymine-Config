@@ -13,3 +13,4 @@ hg4idea
 com.intellij.persistence.database
 com.intellij.diagram
 CVS
+extended-code-sense

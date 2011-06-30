@@ -25,7 +25,6 @@
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
     <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="CodeStyleSchemes">
@@ -39,7 +38,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="FIND_SCOPE" value="global" />
     <option name="FIND_CUSTOM_SCOPE" />
-    <option name="CASE_SENSITIVE_SEARCH" value="false" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
     <option name="PRESERVE_CASE_REPLACE" value="false" />
     <option name="WHOLE_WORDS_ONLY" value="false" />
@@ -48,129 +47,134 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
     <option name="REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="subject" />
-          <item index="1" class="java.lang.String" itemvalue="confirm-button" />
-          <item index="2" class="java.lang.String" itemvalue="an enrolled user with email" />
-          <item index="3" class="java.lang.String" itemvalue="find_for_authentication" />
-          <item index="4" class="java.lang.String" itemvalue="Forgot your password?" />
-          <item index="5" class="java.lang.String" itemvalue="def confirmed" />
-          <item index="6" class="java.lang.String" itemvalue="have requested to reset your password" />
-          <item index="7" class="java.lang.String" itemvalue="I forgot my password" />
-          <item index="8" class="java.lang.String" itemvalue="Password reset instructions were successfully sent to" />
-          <item index="9" class="java.lang.String" itemvalue="send_instructions" />
-          <item index="10" class="java.lang.String" itemvalue="set_flash_message" />
-          <item index="11" class="java.lang.String" itemvalue="profiles" />
-          <item index="12" class="java.lang.String" itemvalue="send_reset_password_instructions" />
-          <item index="13" class="java.lang.String" itemvalue="send_" />
-          <item index="14" class="java.lang.String" itemvalue="Could not reset password" />
-          <item index="15" class="java.lang.String" itemvalue="question" />
-          <item index="16" class="java.lang.String" itemvalue="edit_custom_circle_of_trust_membership_groups" />
-          <item index="17" class="java.lang.String" itemvalue=".with_options" />
-          <item index="18" class="java.lang.String" itemvalue="with" />
-          <item index="19" class="java.lang.String" itemvalue="cucumber" />
-          <item index="20" class="java.lang.String" itemvalue="question_of_the_day_results" />
-          <item index="21" class="java.lang.String" itemvalue="question_of_the_day_result" />
-          <item index="22" class="java.lang.String" itemvalue="QuestionOfTheDayController" />
-          <item index="23" class="java.lang.String" itemvalue="Choice" />
-          <item index="24" class="java.lang.String" itemvalue="Vote" />
-          <item index="25" class="java.lang.String" itemvalue="contro" />
-          <item index="26" class="java.lang.String" itemvalue="QuestionOfTheDay" />
-          <item index="27" class="java.lang.String" itemvalue="QotdQuestion" />
-          <item index="28" class="java.lang.String" itemvalue="QotdAnswer" />
-          <item index="29" class="java.lang.String" itemvalue="answers" />
+          <item index="0" class="java.lang.String" itemvalue="as_null_object" />
+          <item index="1" class="java.lang.String" itemvalue="auto_link" />
+          <item index="2" class="java.lang.String" itemvalue="thread" />
+          <item index="3" class="java.lang.String" itemvalue="threads" />
+          <item index="4" class="java.lang.String" itemvalue="Body" />
+          <item index="5" class="java.lang.String" itemvalue="see" />
+          <item index="6" class="java.lang.String" itemvalue="within" />
+          <item index="7" class="java.lang.String" itemvalue="with_scope" />
+          <item index="8" class="java.lang.String" itemvalue="t1dqa" />
+          <item index="9" class="java.lang.String" itemvalue="avatar_h" />
+          <item index="10" class="java.lang.String" itemvalue="t1dmobiletest" />
+          <item index="11" class="java.lang.String" itemvalue="445444" />
+          <item index="12" class="java.lang.String" itemvalue="445" />
+          <item index="13" class="java.lang.String" itemvalue="&quot; category page" />
+          <item index="14" class="java.lang.String" itemvalue="create a new thread" />
+          <item index="15" class="java.lang.String" itemvalue="error messages for the thread" />
+          <item index="16" class="java.lang.String" itemvalue="create a thread that already" />
+          <item index="17" class="java.lang.String" itemvalue="some threads for" />
+          <item index="18" class="java.lang.String" itemvalue="listing of each thread" />
+          <item index="19" class="java.lang.String" itemvalue="a thread for" />
+          <item index="20" class="java.lang.String" itemvalue="for that thread" />
+          <item index="21" class="java.lang.String" itemvalue="add a new post in the oldest thread" />
+          <item index="22" class="java.lang.String" itemvalue="the thread with the new" />
+          <item index="23" class="java.lang.String" itemvalue="the first thread" />
+          <item index="24" class="java.lang.String" itemvalue="a thread with " />
+          <item index="25" class="java.lang.String" itemvalue="visit that thread" />
+          <item index="26" class="java.lang.String" itemvalue="The url should be" />
+          <item index="27" class="java.lang.String" itemvalue="The url should" />
+          <item index="28" class="java.lang.String" itemvalue="fill_out_new_post_form_and_submit" />
+          <item index="29" class="java.lang.String" itemvalue="NEW_POST_BODY_TEXT" />
         </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="disconnect_link" />
-          <item index="1" class="java.lang.String" itemvalue="disconnection_button_selector" />
-          <item index="2" class="java.lang.String" itemvalue="successfulDisconnectionRequest" />
-          <item index="3" class="java.lang.String" itemvalue="updateDisconnectButton" />
-          <item index="4" class="java.lang.String" itemvalue="unbindDisconnectButton" />
-          <item index="5" class="java.lang.String" itemvalue=".t1dWidget.Disconnect" />
-          <item index="6" class="java.lang.String" itemvalue="successfulDisconnection" />
-          <item index="7" class="java.lang.String" itemvalue="errorDisconnection" />
-          <item index="8" class="java.lang.String" itemvalue="generate_inheritance_indicator" />
-          <item index="9" class="java.lang.String" itemvalue="circles_of_trust" />
-          <item index="10" class="java.lang.String" itemvalue="edit_sitewide_circle_of_trust_path" />
-          <item index="11" class="java.lang.String" itemvalue="edit_circle_of_trust_path" />
-          <item index="12" class="java.lang.String" itemvalue="circle_of_trust_path" />
-          <item index="13" class="java.lang.String" itemvalue="circle_of_trust_invited_to" />
-          <item index="14" class="java.lang.String" itemvalue="in the circle of trust list" />
-          <item index="15" class="java.lang.String" itemvalue="the circle of trust" />
-          <item index="16" class="java.lang.String" itemvalue="I create a custom circle of trust" />
-          <item index="17" class="java.lang.String" itemvalue="circle_of_trust" />
-          <item index="18" class="java.lang.String" itemvalue="newCircleOfTrustLink.loadModal" />
-          <item index="19" class="java.lang.String" itemvalue="CustomCircleOfTrust" />
-          <item index="20" class="java.lang.String" itemvalue="@test_class_object" />
-          <item index="21" class="java.lang.String" itemvalue="And I fill in &quot;Search&quot; with &quot;friendlyjoe&quot;" />
-          <item index="22" class="java.lang.String" itemvalue="Given I log in as &quot;A1CDude&quot;" />
-          <item index="23" class="java.lang.String" itemvalue="Searcher" />
-          <item index="24" class="java.lang.String" itemvalue="debug" />
-          <item index="25" class="java.lang.String" itemvalue="" />
-          <item index="26" class="java.lang.String" itemvalue="QuestionOfTheDay::Vote" />
-          <item index="27" class="java.lang.String" itemvalue="QuestionOfTheDay" />
-          <item index="28" class="java.lang.String" itemvalue="QuestionOfTheDay::Choice" />
-          <item index="29" class="java.lang.String" itemvalue="choices" />
+          <item index="0" class="java.lang.String" itemvalue="bond.profile" />
+          <item index="1" class="java.lang.String" itemvalue="Bond" />
+          <item index="2" class="java.lang.String" itemvalue="bond" />
+          <item index="3" class="java.lang.String" itemvalue="t1dstage.asolutions.com" />
+          <item index="4" class="java.lang.String" itemvalue="alpha_stage_build" />
+          <item index="5" class="java.lang.String" itemvalue="password" />
+          <item index="6" class="java.lang.String" itemvalue="month" />
+          <item index="7" class="java.lang.String" itemvalue="'an API call that requires authentication'" />
+          <item index="8" class="java.lang.String" itemvalue="#" />
+          <item index="9" class="java.lang.String" itemvalue="Dialog" />
+          <item index="10" class="java.lang.String" itemvalue="DialogsController" />
+          <item index="11" class="java.lang.String" itemvalue="Dialogs::" />
+          <item index="12" class="java.lang.String" itemvalue="dialogs" />
+          <item index="13" class="java.lang.String" itemvalue="t1dmobiletest" />
+          <item index="14" class="java.lang.String" itemvalue="t1dqa" />
+          <item index="15" class="java.lang.String" itemvalue="&quot; category dialogs page" />
+          <item index="16" class="java.lang.String" itemvalue="create a new dialog" />
+          <item index="17" class="java.lang.String" itemvalue="error messages for the dialog" />
+          <item index="18" class="java.lang.String" itemvalue="create a dialog that already" />
+          <item index="19" class="java.lang.String" itemvalue="some dialogs for" />
+          <item index="20" class="java.lang.String" itemvalue="listing of each dialog" />
+          <item index="21" class="java.lang.String" itemvalue="a dialog for" />
+          <item index="22" class="java.lang.String" itemvalue="for that dialog" />
+          <item index="23" class="java.lang.String" itemvalue="add a new post to the oldest dialog" />
+          <item index="24" class="java.lang.String" itemvalue="the dialog with the new" />
+          <item index="25" class="java.lang.String" itemvalue="the first dialog" />
+          <item index="26" class="java.lang.String" itemvalue="a dialog with " />
+          <item index="27" class="java.lang.String" itemvalue="visit that dialog" />
+          <item index="28" class="java.lang.String" itemvalue="the url should be" />
+          <item index="29" class="java.lang.String" itemvalue="the url should" />
         </list>
       </value>
     </option>
     <option name="RECENT_DIR_STRINGS">
       <value>
-        <list size="27">
-          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems" />
-          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems/devise-1.1.2/lib/devise/models" />
-          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems/devise-1.1.2/lib" />
-          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/devise/sessions" />
-          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/layouts" />
-          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p0@t1d/gems/devise-1.1.2/" />
-          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec" />
-          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/controllers" />
-          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/controllers" />
-          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/models" />
-          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/public" />
-          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/javascripts/fixtures" />
-          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/public/javascripts" />
-          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/javascripts" />
-          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/circles_of_trust" />
-          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/shared/circles_of_trust" />
-          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app" />
-          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views" />
-          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-webdriver-0.1.2" />
-          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-webdriver-0.1.2/lib/selenium/webdriver/remote" />
-          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-client-1.2.18/lib/selenium/client" />
-          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-webdriver-0.1.2/lib/selenium/client" />
-          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136/gems/selenium-webdriver-0.1.2/lib" />
-          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features" />
-          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d" />
-          <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/step_definitions" />
-          <item index="26" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/user_search" />
+        <list size="30">
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/controllers" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/my_profile" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/public/javascripts" />
+          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/capybara-0.4.1.2/lib/capybara" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/step_definitions" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/helpers" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid-2.0.1/lib/" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/api" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/carrierwave-0.5.4/lib" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/workspace/jaeb_data_ws/config" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/config/deployments" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/config" />
+          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/script/alpha_build" />
+          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capistrano-ext-1.2.1/lib" />
+          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capistrano-2.5.19/lib" />
+          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/script/alpha_stage_build" />
+          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/lib" />
+          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/models/user" />
+          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capybara-1.0.0/lib" />
+          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/" />
+          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features" />
+          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/controllers" />
+          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app" />
+          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/models" />
+          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/my_glu" />
+          <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/requests" />
+          <item index="26" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/bundler/gems/mongoid-8f61f5b58c10/lib" />
+          <item index="27" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/rspec-mocks-2.6.0/lib" />
+          <item index="28" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capybara-0.4.1.2/lib" />
+          <item index="29" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d" />
         </list>
       </value>
     </option>
     <option name="RECENT_FILE_MASKS">
       <value>
-        <list size="13">
+        <list size="15">
           <item index="0" class="java.lang.String" itemvalue="*.properties" />
-          <item index="1" class="java.lang.String" itemvalue="*.html" />
-          <item index="2" class="java.lang.String" itemvalue="*.jsp" />
-          <item index="3" class="java.lang.String" itemvalue="*.xml" />
-          <item index="4" class="java.lang.String" itemvalue="*.java" />
-          <item index="5" class="java.lang.String" itemvalue="*.php" />
-          <item index="6" class="java.lang.String" itemvalue="*.as" />
-          <item index="7" class="java.lang.String" itemvalue="*.css" />
-          <item index="8" class="java.lang.String" itemvalue="*.mxml" />
-          <item index="9" class="java.lang.String" itemvalue="*.rb" />
+          <item index="1" class="java.lang.String" itemvalue="*.jsp" />
+          <item index="2" class="java.lang.String" itemvalue="*.xml" />
+          <item index="3" class="java.lang.String" itemvalue="*.java" />
+          <item index="4" class="java.lang.String" itemvalue="*.php" />
+          <item index="5" class="java.lang.String" itemvalue="*.as" />
+          <item index="6" class="java.lang.String" itemvalue="*.css" />
+          <item index="7" class="java.lang.String" itemvalue="*.mxml" />
+          <item index="8" class="java.lang.String" itemvalue="*.rb" />
+          <item index="9" class="java.lang.String" itemvalue="*.haml" />
           <item index="10" class="java.lang.String" itemvalue="*.js" />
-          <item index="11" class="java.lang.String" itemvalue="*_spec.rb" />
-          <item index="12" class="java.lang.String" itemvalue="*.haml" />
+          <item index="11" class="java.lang.String" itemvalue="*.html" />
+          <item index="12" class="java.lang.String" itemvalue="*_helper.rb" />
+          <item index="13" class="java.lang.String" itemvalue="*_spec.rb" />
+          <item index="14" class="java.lang.String" itemvalue="*_steps.rb" />
         </list>
       </value>
     </option>
@@ -202,8 +206,10 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/workspace/ui-design" />
         <option value="$USER_HOME$/workspace/t1d" />
         <option value="$USER_HOME$/workspace/jaeb_data_ws" />
+        <option value="$USER_HOME$/Downloads/jquery-validation-1.8.0" />
       </list>
     </option>
     <option name="openPaths">
@@ -211,7 +217,7 @@
         <option value="$USER_HOME$/workspace/t1d" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/t1d" />
+    <option name="lastPath" value="$USER_HOME$/workspace/ui-design" />
   </component>
   <component name="TemplateSettings">
     <defaultShortcut shortcut="TAB" />
@@ -238,7 +244,12 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1298909700598" />
+    <option name="LAST_TIME_CHECKED" value="1308941398722" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="filterDuplicatedLine" value="true" />
+    <option name="IS_FILTER_DUPLICATED_LINE" value="true" />
+    <option name="GROUP_BY_MODULE" value="false" />
   </component>
   <component name="XDebuggerSettings">
     <data-views />
@@ -270,9 +281,9 @@
       <option name="RECENT_TEMPLATES">
         <value>
           <list size="3">
-            <item index="0" class="java.lang.String" itemvalue="JavaScript File" />
-            <item index="1" class="java.lang.String" itemvalue="Ruby Class Template" />
-            <item index="2" class="java.lang.String" itemvalue="RSpec Test Template" />
+            <item index="0" class="java.lang.String" itemvalue="RSpec Test Template" />
+            <item index="1" class="java.lang.String" itemvalue="JavaScript File" />
+            <item index="2" class="java.lang.String" itemvalue="Ruby Class Template" />
           </list>
         </value>
       </option>

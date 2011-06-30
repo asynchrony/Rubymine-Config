@@ -14,7 +14,7 @@
     <option name="confirmExtractFiles" value="true" />
     <option name="searchInBackground" value="true" />
     <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject" value="-1" />
+    <option name="confirmOpenNewProject" value="0" />
     <option name="lastProjectLocation" value="$USER_HOME$/workspace" />
   </component>
 </application>

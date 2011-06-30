@@ -5,6 +5,8 @@
       <w>checkboxes</w>
       <w>downcased</w>
       <w>ethnicities</w>
+      <w>geolocation</w>
+      <w>geolocations</w>
       <w>sitewide</w>
     </words>
   </component>
