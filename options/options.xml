@@ -16,10 +16,10 @@
     <location key="git4idea.checkout.GitCheckoutDialog.0.0.1600.1200" x="2163" y="482" />
     <location key="git4idea.checkin.GitPushActiveBranchesDialog.0.0.1600.1200" x="359" y="330" />
     <location key="replaceTextDialog.1600.0.1600.1200" x="2185" y="429" />
-    <location key="FileChooserDialogImpl" x="601" y="335" />
     <location key="IdeErrosDialog.0.0.1600.1200" x="491" y="284" />
-    <location key="git4idea.checkin.GitPushDialog.0.0.1600.1200" x="508" y="413" />
+    <location key="FileChooserDialogImpl" x="601" y="335" />
     <location key="git4idea.ui.GitResetDialog.0.0.1600.1200" x="611" y="506" />
+    <location key="git4idea.checkin.GitPushDialog.0.0.1600.1200" x="508" y="413" />
     <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1600.1200" x="140" y="125" />
     <location key="ProcessPopupWindow" x="453" y="612" />
     <location key="FileChooserDialogImpl.0.24.1600.1152" x="583" y="337" />
@@ -50,13 +50,13 @@
     <location key="VCS.ChangeListViewerDialog.0.0.1600.1200" x="377" y="341" />
     <location key="DiffWindow.0.24.1600.1152" x="1599" y="0" />
     <location key="FileChooserDialogImpl.1600.0.1600.1200" x="2191" y="332" />
-    <location key="VCS.ChangeListViewerDialog.0.24.1600.1152" x="2042" y="342" />
     <location key="replaceTextDialog.0.0.1600.1200" x="799" y="280" />
+    <location key="VCS.ChangeListViewerDialog.0.24.1600.1152" x="2042" y="342" />
     <location key="CommitChangelistDialog.0.0.1600.1200" x="323" y="241" />
     <location key="git4idea.rebase.GitRebaseDialog.0.24.1600.1152" x="592" y="449" />
     <location key="findTextDialog.0.24.1600.1152" x="488" y="301" />
-    <size key="#com.intellij.fileTypes.FileTypeChooser.1600.0.1600.1200" width="665" height="385" />
     <size key="javadoc.popup.1600.0.1600.1200" width="504" height="75" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.1600.0.1600.1200" width="665" height="385" />
     <size key="git4idea.ui.GitFetchDialog.1600.0.1600.1200" width="635" height="665" />
     <size key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.0.1600.1200" width="1245" height="1084" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.24.1600.1152" width="818" height="687" />
@@ -65,8 +65,8 @@
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.1200" width="994" height="877" />
     <size key="GotoFile_FileTypePopup.0.0.1600.1200" width="213" height="200" />
     <size key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.1600.0.1600.1200" width="518" height="587" />
-    <size key="DiffWindow.0.0.1600.1200" width="1600" height="1200" />
     <size key="Vcs.CompareWithSelectedRevision.Popup" width="467" height="423" />
+    <size key="DiffWindow.0.0.1600.1200" width="1600" height="1200" />
     <size key="javadoc.popup.0.24.1600.1152" width="504" height="75" />
     <size key="#com.intellij.fileTypes.FileTypeChooser.0.24.1600.1152" width="691" height="385" />
     <size key="OptionsEditor.1600.0.1600.1200" width="1218" height="855" />
@@ -80,17 +80,17 @@
     <size key="replaceTextDialog.0.24.1600.1152" width="665" height="422" />
     <size key="CommitChangelistDialog.0.24.1600.1152" width="895" height="648" />
     <size key="#Updates.0.24.1600.1152" width="790" height="423" />
-    <size key="git4idea.checkout.GitCheckoutDialog.0.0.1600.1200" width="466" height="242" />
     <size key="findTextDialog.0.0.1600.1200" width="809" height="427" />
+    <size key="git4idea.checkout.GitCheckoutDialog.0.0.1600.1200" width="466" height="242" />
     <size key="git4idea.rebase.GitRebaseDialog.1600.0.1600.1200" width="407" height="304" />
     <size key="replaceTextDialog.1600.0.1600.1200" width="430" height="339" />
     <size key="FileChooserDialogImpl" width="418" height="523" />
-    <size key="DiffWindow.0.24.1600.1152" width="1602" height="1205" />
     <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1600.1200" width="1400" height="951" />
+    <size key="DiffWindow.0.24.1600.1152" width="1602" height="1205" />
     <size key="ProcessPopupWindow" width="962" height="380" />
     <size key="FileChooserDialogImpl.0.24.1600.1152" width="418" height="528" />
-    <size key="VCS.ChangeListViewerDialog.0.24.1600.1152" width="707" height="522" />
     <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1600.1200" width="700" height="500" />
+    <size key="VCS.ChangeListViewerDialog.0.24.1600.1152" width="707" height="522" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.1600.0.1600.1200" width="818" height="687" />
     <size key="git4idea.rebase.GitRebaseDialog.0.24.1600.1152" width="407" height="304" />
     <size key="IdeErrosDialog.0.24.1600.1152" width="618" height="637" />
@@ -118,8 +118,8 @@
     <property name="file.colors.enable.non.project" value="ffffe4" />
     <property name="rails.run.generators.popup.search.mask" value="migrat" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION" value="0.5" />
-    <property name="KEYMAP" value="find" />
     <property name="IMMEDIATE_FATAL_ERROR_POPUP" value="false" />
+    <property name="KEYMAP" value="find" />
     <property name="Ruby.initialConfigurationShown" value="true" />
     <property name="Tests" value="e7fadb" />
     <property name="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin/ruby:IDE" value="0.4.17.beta3" />

@@ -210,41 +210,6 @@
       <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="t1d" RVM_IGNORE_GLOBAL="t1d" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" FORMAT_VERSION="2" />
     </jdk>
     <jdk version="2">
-      <name value="Ruby SDK 1.9.2-p136 [jaeb]" />
-      <type value="RUBY_SDK" />
-      <version value="ver.1.9.2p136 ( revision 30365) p136" />
-      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin/ruby" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="jaeb" RVM_IGNORE_GLOBAL="jaeb" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" FORMAT_VERSION="2" />
-    </jdk>
-    <jdk version="2">
       <name value="Ruby SDK 1.9.2-p180 [global]" />
       <type value="RUBY_SDK" />
       <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin/ruby" />
@@ -383,8 +348,9 @@
       <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="jaeb" RVM_IGNORE_GLOBAL="jaeb" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin" FORMAT_VERSION="2" />
     </jdk>
     <jdk version="2">
-      <name value="Ruby SDK 1.9.2-p180 [custom]" />
+      <name value="RVM: ruby-1.9.2-p180 [cucumber]" />
       <type value="RUBY_SDK" />
+      <version value="ver.1.9.2p180 ( revision 30909) p180" />
       <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin/ruby" />
       <roots>
         <classPath>
@@ -414,143 +380,147 @@
           </root>
         </sourcePath>
       </roots>
-      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="custom" RVM_IGNORE_GLOBAL="custom" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin" FORMAT_VERSION="2" />
+      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="cucumber" RVM_IGNORE_GLOBAL="cucumber" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin" FORMAT_VERSION="2" />
     </jdk>
     <jdk version="2">
-      <name value="Ruby SDK 1.9.2-p136 [ruby-1.9.2-p0]" />
+      <name value="RVM: ruby-1.9.2-p180 [mongoid_taggable]" />
       <type value="RUBY_SDK" />
-      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin/ruby" />
+      <version value="ver.1.9.2p180 ( revision 30909) p180" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin/ruby" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/x86_64-linux" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/x86_64-linux" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
           </root>
         </sourcePath>
       </roots>
-      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="ruby-1.9.2-p0" RVM_IGNORE_GLOBAL="ruby-1.9.2-p0" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" FORMAT_VERSION="2" />
+      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="mongoid_taggable" RVM_IGNORE_GLOBAL="mongoid_taggable" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin" FORMAT_VERSION="2" />
     </jdk>
     <jdk version="2">
-      <name value="Ruby SDK 1.9.2-p136 [diaspora]" />
+      <name value="RVM: ruby-1.9.2-p180 [t1d2]" />
       <type value="RUBY_SDK" />
-      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin/ruby" />
+      <version value="ver.1.9.2p180 ( revision 30909) p180" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin/ruby" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/x86_64-linux" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/x86_64-linux" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
           </root>
         </sourcePath>
       </roots>
-      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="diaspora" RVM_IGNORE_GLOBAL="diaspora" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" FORMAT_VERSION="2" />
+      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="t1d2" RVM_IGNORE_GLOBAL="t1d2" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin" FORMAT_VERSION="2" />
     </jdk>
     <jdk version="2">
-      <name value="Ruby SDK 1.9.2-p136 [cucumber]" />
+      <name value="RVM: ruby-1.9.2-p180 [resque_spec]" />
       <type value="RUBY_SDK" />
-      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin/ruby" />
+      <version value="ver.1.9.2p180 ( revision 30909) p180" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin/ruby" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/x86_64-linux" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/x86_64-linux" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
           </root>
         </sourcePath>
       </roots>
-      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="cucumber" RVM_IGNORE_GLOBAL="cucumber" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" FORMAT_VERSION="2" />
+      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="resque_spec" RVM_IGNORE_GLOBAL="resque_spec" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin" FORMAT_VERSION="2" />
     </jdk>
     <jdk version="2">
-      <name value="Ruby SDK 1.9.2-p136 [central_logger]" />
+      <name value="RVM: ruby-1.9.2-p180 [mongoid-rspec]" />
       <type value="RUBY_SDK" />
-      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin/ruby" />
+      <version value="ver.1.9.2p180 ( revision 30909) p180" />
+      <homePath value="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin/ruby" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/x86_64-linux" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/site_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/vendor_ruby" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1" />
-            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/lib/ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/site_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby/1.9.1/x86_64-linux" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1" />
+            <root type="simple" url="file://$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/lib/ruby/1.9.1/x86_64-linux" />
             <root type="simple" url="file://$APPLICATION_HOME_DIR$/rubystubs19" />
           </root>
         </sourcePath>
       </roots>
-      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="central_logger" RVM_IGNORE_GLOBAL="central_logger" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p136/bin" FORMAT_VERSION="2" />
+      <additional LANGUAGE_LEVEL="ruby19" RVM_GEMSET_NAME="mongoid-rspec" RVM_IGNORE_GLOBAL="mongoid-rspec" GEMS_BIN_DIR_PATH="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin" FORMAT_VERSION="2" />
     </jdk>
   </component>
 </application>

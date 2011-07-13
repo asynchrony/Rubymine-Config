@@ -209,7 +209,6 @@
       <list>
         <option value="$USER_HOME$/workspace/t1d" />
         <option value="$USER_HOME$/workspace/ui-design" />
-        <option value="$USER_HOME$/workspace/jaeb_data_ws" />
       </list>
     </option>
     <option name="openPaths">
@@ -243,7 +242,12 @@
     </option>
     <option name="myKnownUpdateChannels">
       <value>
-        <list size="0" />
+        <list size="4">
+          <item index="0" class="java.lang.String" itemvalue="rm20" />
+          <item index="1" class="java.lang.String" itemvalue="rm30" />
+          <item index="2" class="java.lang.String" itemvalue="rm32" />
+          <item index="3" class="java.lang.String" itemvalue="rm32EAP" />
+        </list>
       </value>
     </option>
     <option name="myIgnoredBuildNumbers">
@@ -252,7 +256,7 @@
       </value>
     </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1310403635089" />
+    <option name="LAST_TIME_CHECKED" value="1310573778211" />
     <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
   <component name="UsageViewSettings">

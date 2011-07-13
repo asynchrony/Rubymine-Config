@@ -2,22 +2,22 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="run-configuration-type">
-      <project id="t1d" values="CucumberRunConfigurationType,Unknown,RSpecRunConfigurationType,RakeRunConfigurationType,RailsRunConfigurationType" />
-    </group>
-    <group name="module type">
-      <project id="t1d" values="RUBY_MODULE" />
+      <project id="t1d" values="RailsRunConfigurationType,RSpecRunConfigurationType,RakeRunConfigurationType,Unknown,CucumberRunConfigurationType" />
     </group>
     <group name="vcs">
       <project id="t1d" values="Git" />
     </group>
+    <group name="module type">
+      <project id="t1d" values="RUBY_MODULE" />
+    </group>
     <group name="frameworks">
       <project id="t1d" values="RailsFacetType" />
     </group>
-    <group name="ruby-gems-names">
-      <project id="t1d" values="selenium" />
-    </group>
     <group name="ruby-project-type">
       <project id="t1d" values="rails unknown" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="t1d" values="selenium" />
     </group>
     <group name="ruby-sdk-version">
       <project id="t1d" values="Ruby SDK 1.9.2-p180" />
