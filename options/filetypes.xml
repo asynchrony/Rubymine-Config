@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
-  <component name="FileTypeManager" version="8">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;" />
+  <component name="FileTypeManager" version="10">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;" />
     <extensionMap>
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="clone_jasmine" type="PLAIN_TEXT" />
+      <mapping pattern="resque-web" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="markdown" type="PLAIN_TEXT" />
+      <mapping ext="god" type="Ruby" />
     </extensionMap>
   </component>
 </application>

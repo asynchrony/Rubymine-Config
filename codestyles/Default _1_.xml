@@ -84,5 +84,9 @@
     <option name="LABEL_INDENT_ABSOLUTE" value="false" />
     <option name="USE_RELATIVE_INDENTS" value="false" />
   </ADDITIONAL_INDENT_OPTIONS>
+  <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="PARENT_SETTINGS_INSTALLED" value="true" />
+  </codeStyleSettings>
 </code_scheme>
 

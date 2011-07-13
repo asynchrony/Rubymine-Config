@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="t1d" values="RailsRunConfigurationType,RakeRunConfigurationType" />
+    </group>
+    <group name="vcs">
+      <project id="ui-design" values="Git" />
+      <project id="t1d" values="Git" />
+    </group>
+    <group name="module type">
+      <project id="ui-design" values="RUBY_MODULE" />
+      <project id="t1d" values="RUBY_MODULE" />
+    </group>
+    <group name="frameworks">
+      <project id="t1d" values="RailsFacetType" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="ui-design" values="plain ruby" />
+      <project id="t1d" values="rails 3.0" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="t1d" values="highline,devise,jasmine,diff-lcs,launchy,rack,selenium-client,god,arel,colored,builder,mongo,archive-tar-minitar,rest-client,rspec-rails,bcrypt-ruby,celerity,vegas,tilt,activerecord,ci_reporter,ruby_core_source,decent_exposure,nokogiri,jquery-rails,cover_me,configuration,unicorn,railties,rubyzip,rack-mount,newrelic_rpm,json_pure,mongoid-rspec,activeresource,capistrano-ext,treetop,abstract,haml,shoulda,resque_mailer,parallel,ruby-debug-base19,tzinfo,actionpack,ZenTest,daemons,kgio,hashie,factory_girl,rack-test,columnize,cucumber-rails,warden,linecache19,i18n,mime-types,selenium,parallel_tests,mongoid_rails_migrations,mongrel,rspec-mocks,net-ssh-gateway,ruby-debug19,factory_girl_rails,term-ansicolor,net-scp,mongoid,xpath,ruby-progressbar,json,mail,gem_plugin,sexp_processor,configatron,email_spec,activesupport,rails,ruby_parser,rake,rspec,mongoid_taggable,rpm_contrib,erubis,autotest,polyglot,bson_ext,bundler,net-ssh,ffi,faker,capybara,culerity,gherkin,custom_rspec_matchers,image_science,capistrano,rspec-core,selenium-rc,thor,yamler,actionmailer,rails_best_practices,sinatra,bson,carrierwave,childprocess,rspec-expectations,selenium-webdriver,net-sftp,activemodel" />
+    </group>
+    <group name="ruby-sdk-version">
+      <project id="ui-design" values="Ruby SDK 1.9.2-p136" />
+      <project id="t1d" values="Ruby SDK 1.9.2-p136" />
+    </group>
+  </component>
+</application>
+

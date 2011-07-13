@@ -6,7 +6,7 @@
     <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.1200" x="479" y="405" />
     <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.1600.0.1600.1200" x="2141" y="306" />
     <location key="DiffWindow.0.0.1600.1200" x="1600" y="0" />
-    <location key="OptionsEditor.0.0.1600.1200" x="1768" y="117" />
+    <location key="OptionsEditor.0.0.1600.1200" x="272" y="139" />
     <location key="git4idea.ui.GitFetchDialog.0.0.1600.1200" x="477" y="264" />
     <location key="replaceTextDialog.0.24.1600.1152" x="2086" y="576" />
     <location key="CommitChangelistDialog.0.24.1600.1152" x="299" y="266" />
@@ -29,6 +29,7 @@
     <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1600.1200" x="541" y="309" />
     <location key="#Updates.0.0.1600.1200" x="404" y="455" />
     <location key="git4idea.ui.GitFetchDialog.1600.0.1600.1200" x="2078" y="262" />
+    <location key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.0.1600.1200" x="172" y="24" />
     <location key="OptionsEditor.0.24.1600.1152" x="119" y="58" />
     <location key="findTextDialog.1600.0.1600.1200" x="2084" y="372" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.1200" x="401" y="256" />
@@ -38,6 +39,8 @@
     <location key="RollbackChangesDialog.0.0.1600.1200" x="486" y="341" />
     <location key="RollbackChangesDialog.1600.0.1600.1200" x="2082" y="318" />
     <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1600.1200" x="526" y="447" />
+    <location key="#Inspections.0.0.1600.1200" x="440" y="291" />
+    <location key="scopes.0.0.1600.1200" x="390" y="256" />
     <location key="git4idea.ui.GitFetchDialog.0.24.1600.1152" x="478" y="268" />
     <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.24.1600.1152" x="1074" y="307" />
     <location key="FileChooserDialogImpl.0.0.1600.1200" x="626" y="356" />
@@ -55,10 +58,12 @@
     <size key="#com.intellij.fileTypes.FileTypeChooser.1600.0.1600.1200" width="665" height="385" />
     <size key="javadoc.popup.1600.0.1600.1200" width="504" height="75" />
     <size key="git4idea.ui.GitFetchDialog.1600.0.1600.1200" width="635" height="665" />
+    <size key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog.0.0.1600.1200" width="1245" height="1084" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.24.1600.1152" width="818" height="687" />
     <size key="OptionsEditor.0.24.1600.1152" width="1437" height="1111" />
     <size key="findTextDialog.1600.0.1600.1200" width="665" height="416" />
     <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.1200" width="994" height="877" />
+    <size key="GotoFile_FileTypePopup.0.0.1600.1200" width="213" height="200" />
     <size key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.1600.0.1600.1200" width="518" height="587" />
     <size key="DiffWindow.0.0.1600.1200" width="1600" height="1200" />
     <size key="Vcs.CompareWithSelectedRevision.Popup" width="467" height="423" />
@@ -120,7 +125,7 @@
     <property name="$USER_HOME$/.rvm/rubies/ruby-1.9.2-p180/bin/ruby:IDE" value="0.4.17.beta3" />
     <property name="LayoutCode.optimizeImports" value="false" />
     <property name="Ruby.encodingUpdated" value="true" />
-    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/workspace/t1d/spec/controllers/categories/dialogs&#10;/home/dev1/workspace/t1d/spec/controllers/categories&#10;/home/dev1/workspace/t1d/spec/controllers&#10;/home/dev1/workspace/t1d/app/views/categories/dialogs/posts&#10;/home/dev1/workspace/t1d/app/views/categories/posts" />
+    <property name="MoveFile.RECENT_KEYS" value="$USER_HOME$/workspace/t1d/features/step_definitions/dialogs/admin&#10;/home/dev1/workspace/t1d/spec/support/matchers&#10;/home/dev1/workspace/t1d/features/support/worlds&#10;/home/dev1/workspace/t1d/spec/controllers/categories/dialogs&#10;/home/dev1/workspace/t1d/spec/controllers/categories" />
     <property name="FileTemplates.SelectedTemplate" value="JavaScript File" />
     <property name="evlsprt2.5" value="12b32acb05d" />
   </component>

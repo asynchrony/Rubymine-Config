@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="FrameworkUsages">
-    <project id="jaeb_data_ws" frameworks="" />
-    <project id="ui-design" frameworks="" />
     <project id="t1d" frameworks="Ruby on Rails" />
   </component>
 </application>

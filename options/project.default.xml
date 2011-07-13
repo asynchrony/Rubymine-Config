@@ -2,7 +2,6 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
-      <component name="CoverageDataManager" choice="3" />
       <component name="DaemonCodeAnalyzer">
         <disable_hints />
       </component>
@@ -10,6 +9,11 @@
         <option name="SKIP_IMPORT_STATEMENTS" value="false" />
       </component>
       <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -52,6 +56,15 @@
       <component name="VcsManagerConfiguration">
         <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
         <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+        <option name="CHECK_NEW_TODO" value="true" />
+        <option name="myTodoPanelSettings">
+          <value>
+            <are-packages-shown value="false" />
+            <are-modules-shown value="false" />
+            <flatten-packages value="false" />
+            <is-autoscroll-to-source value="false" />
+          </value>
+        </option>
         <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
         <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
         <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
@@ -63,6 +76,7 @@
         <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
         <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
         <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+        <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
         <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
         <option name="LAST_COMMIT_MESSAGE" />
         <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />

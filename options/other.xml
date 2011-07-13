@@ -16,7 +16,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Bash</id>
+            <id>CSS</id>
           </State>
         </selected-state>
       </profile-state>
@@ -38,7 +38,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="FIND_SCOPE" value="global" />
     <option name="FIND_CUSTOM_SCOPE" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="false" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="false" />
     <option name="PRESERVE_CASE_REPLACE" value="false" />
     <option name="WHOLE_WORDS_ONLY" value="false" />
@@ -46,114 +46,115 @@
     <option name="STRING_LITERALS_ONLY" value="false" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="false" />
     <option name="REGULAR_EXPRESSIONS" value="false" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="false" />
     <option name="WITH_SUBDIRECTORIES" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
     <option name="FILE_MASK" />
     <option name="RECENT_FIND_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="as_null_object" />
-          <item index="1" class="java.lang.String" itemvalue="auto_link" />
-          <item index="2" class="java.lang.String" itemvalue="thread" />
-          <item index="3" class="java.lang.String" itemvalue="threads" />
-          <item index="4" class="java.lang.String" itemvalue="Body" />
-          <item index="5" class="java.lang.String" itemvalue="see" />
-          <item index="6" class="java.lang.String" itemvalue="within" />
-          <item index="7" class="java.lang.String" itemvalue="with_scope" />
-          <item index="8" class="java.lang.String" itemvalue="t1dqa" />
-          <item index="9" class="java.lang.String" itemvalue="avatar_h" />
-          <item index="10" class="java.lang.String" itemvalue="t1dmobiletest" />
-          <item index="11" class="java.lang.String" itemvalue="445444" />
-          <item index="12" class="java.lang.String" itemvalue="445" />
-          <item index="13" class="java.lang.String" itemvalue="&quot; category page" />
-          <item index="14" class="java.lang.String" itemvalue="create a new thread" />
-          <item index="15" class="java.lang.String" itemvalue="error messages for the thread" />
-          <item index="16" class="java.lang.String" itemvalue="create a thread that already" />
-          <item index="17" class="java.lang.String" itemvalue="some threads for" />
-          <item index="18" class="java.lang.String" itemvalue="listing of each thread" />
-          <item index="19" class="java.lang.String" itemvalue="a thread for" />
-          <item index="20" class="java.lang.String" itemvalue="for that thread" />
-          <item index="21" class="java.lang.String" itemvalue="add a new post in the oldest thread" />
-          <item index="22" class="java.lang.String" itemvalue="the thread with the new" />
-          <item index="23" class="java.lang.String" itemvalue="the first thread" />
-          <item index="24" class="java.lang.String" itemvalue="a thread with " />
-          <item index="25" class="java.lang.String" itemvalue="visit that thread" />
-          <item index="26" class="java.lang.String" itemvalue="The url should be" />
-          <item index="27" class="java.lang.String" itemvalue="The url should" />
-          <item index="28" class="java.lang.String" itemvalue="fill_out_new_post_form_and_submit" />
-          <item index="29" class="java.lang.String" itemvalue="NEW_POST_BODY_TEXT" />
+          <item index="0" class="java.lang.String" itemvalue="AVATAR_HOST" />
+          <item index="1" class="java.lang.String" itemvalue="wait_for_page_to_load" />
+          <item index="2" class="java.lang.String" itemvalue="remote?" />
+          <item index="3" class="java.lang.String" itemvalue="age_in" />
+          <item index="4" class="java.lang.String" itemvalue="user_sea" />
+          <item index="5" class="java.lang.String" itemvalue="find_for" />
+          <item index="6" class="java.lang.String" itemvalue="connected_us" />
+          <item index="7" class="java.lang.String" itemvalue="find_for_search" />
+          <item index="8" class="java.lang.String" itemvalue="user" />
+          <item index="9" class="java.lang.String" itemvalue="ProfilePresenter" />
+          <item index="10" class="java.lang.String" itemvalue="ProfilePr" />
+          <item index="11" class="java.lang.String" itemvalue="avatar" />
+          <item index="12" class="java.lang.String" itemvalue=".ajax" />
+          <item index="13" class="java.lang.String" itemvalue="pus" />
+          <item index="14" class="java.lang.String" itemvalue="visible_post_body" />
+          <item index="15" class="java.lang.String" itemvalue="response" />
+          <item index="16" class="java.lang.String" itemvalue="render" />
+          <item index="17" class="java.lang.String" itemvalue="respond" />
+          <item index="18" class="java.lang.String" itemvalue="@controller" />
+          <item index="19" class="java.lang.String" itemvalue="@10727" />
+          <item index="20" class="java.lang.String" itemvalue="mood" />
+          <item index="21" class="java.lang.String" itemvalue="that dialog" />
+          <item index="22" class="java.lang.String" itemvalue="it's" />
+          <item index="23" class="java.lang.String" itemvalue="delete a" />
+          <item index="24" class="java.lang.String" itemvalue="e2" />
+          <item index="25" class="java.lang.String" itemvalue="mime_type" />
+          <item index="26" class="java.lang.String" itemvalue="general" />
+          <item index="27" class="java.lang.String" itemvalue="new category dialog page" />
+          <item index="28" class="java.lang.String" itemvalue="js-glu-intro-video-link" />
+          <item index="29" class="java.lang.String" itemvalue="'dev'" />
         </list>
       </value>
     </option>
     <option name="RECENT_REPLACE_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="bond.profile" />
-          <item index="1" class="java.lang.String" itemvalue="Bond" />
-          <item index="2" class="java.lang.String" itemvalue="bond" />
-          <item index="3" class="java.lang.String" itemvalue="t1dstage.asolutions.com" />
-          <item index="4" class="java.lang.String" itemvalue="alpha_stage_build" />
-          <item index="5" class="java.lang.String" itemvalue="password" />
-          <item index="6" class="java.lang.String" itemvalue="month" />
-          <item index="7" class="java.lang.String" itemvalue="'an API call that requires authentication'" />
-          <item index="8" class="java.lang.String" itemvalue="#" />
-          <item index="9" class="java.lang.String" itemvalue="Dialog" />
-          <item index="10" class="java.lang.String" itemvalue="DialogsController" />
-          <item index="11" class="java.lang.String" itemvalue="Dialogs::" />
-          <item index="12" class="java.lang.String" itemvalue="dialogs" />
-          <item index="13" class="java.lang.String" itemvalue="t1dmobiletest" />
-          <item index="14" class="java.lang.String" itemvalue="t1dqa" />
-          <item index="15" class="java.lang.String" itemvalue="&quot; category dialogs page" />
-          <item index="16" class="java.lang.String" itemvalue="create a new dialog" />
-          <item index="17" class="java.lang.String" itemvalue="error messages for the dialog" />
-          <item index="18" class="java.lang.String" itemvalue="create a dialog that already" />
-          <item index="19" class="java.lang.String" itemvalue="some dialogs for" />
-          <item index="20" class="java.lang.String" itemvalue="listing of each dialog" />
-          <item index="21" class="java.lang.String" itemvalue="a dialog for" />
-          <item index="22" class="java.lang.String" itemvalue="for that dialog" />
-          <item index="23" class="java.lang.String" itemvalue="add a new post to the oldest dialog" />
-          <item index="24" class="java.lang.String" itemvalue="the dialog with the new" />
-          <item index="25" class="java.lang.String" itemvalue="the first dialog" />
-          <item index="26" class="java.lang.String" itemvalue="a dialog with " />
-          <item index="27" class="java.lang.String" itemvalue="visit that dialog" />
-          <item index="28" class="java.lang.String" itemvalue="the url should be" />
-          <item index="29" class="java.lang.String" itemvalue="the url should" />
+          <item index="0" class="java.lang.String" itemvalue="password" />
+          <item index="1" class="java.lang.String" itemvalue="month" />
+          <item index="2" class="java.lang.String" itemvalue="'an API call that requires authentication'" />
+          <item index="3" class="java.lang.String" itemvalue="#" />
+          <item index="4" class="java.lang.String" itemvalue="Dialog" />
+          <item index="5" class="java.lang.String" itemvalue="DialogsController" />
+          <item index="6" class="java.lang.String" itemvalue="Dialogs::" />
+          <item index="7" class="java.lang.String" itemvalue="dialogs" />
+          <item index="8" class="java.lang.String" itemvalue="t1dmobiletest" />
+          <item index="9" class="java.lang.String" itemvalue="t1dqa" />
+          <item index="10" class="java.lang.String" itemvalue="&quot; category dialogs page" />
+          <item index="11" class="java.lang.String" itemvalue="create a new dialog" />
+          <item index="12" class="java.lang.String" itemvalue="error messages for the dialog" />
+          <item index="13" class="java.lang.String" itemvalue="create a dialog that already" />
+          <item index="14" class="java.lang.String" itemvalue="some dialogs for" />
+          <item index="15" class="java.lang.String" itemvalue="listing of each dialog" />
+          <item index="16" class="java.lang.String" itemvalue="a dialog for" />
+          <item index="17" class="java.lang.String" itemvalue="for that dialog" />
+          <item index="18" class="java.lang.String" itemvalue="add a new post to the oldest dialog" />
+          <item index="19" class="java.lang.String" itemvalue="the dialog with the new" />
+          <item index="20" class="java.lang.String" itemvalue="the first dialog" />
+          <item index="21" class="java.lang.String" itemvalue="a dialog with " />
+          <item index="22" class="java.lang.String" itemvalue="visit that dialog" />
+          <item index="23" class="java.lang.String" itemvalue="the url should be" />
+          <item index="24" class="java.lang.String" itemvalue="the url should" />
+          <item index="25" class="java.lang.String" itemvalue="create_dialogs_for_category" />
+          <item index="26" class="java.lang.String" itemvalue="create_posts_for_dialog" />
+          <item index="27" class="java.lang.String" itemvalue="dialog" />
+          <item index="28" class="java.lang.String" itemvalue="visible_body" />
+          <item index="29" class="java.lang.String" itemvalue="subject" />
         </list>
       </value>
     </option>
     <option name="RECENT_DIR_STRINGS">
       <value>
         <list size="30">
-          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/controllers" />
-          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/my_profile" />
-          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/public/javascripts" />
-          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/capybara-0.4.1.2/lib/capybara" />
-          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/step_definitions" />
-          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/helpers" />
-          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid-2.0.1/lib/" />
-          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/api" />
-          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/carrierwave-0.5.4/lib" />
-          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/workspace/jaeb_data_ws/config" />
-          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/config/deployments" />
-          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/config" />
-          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/script/alpha_build" />
-          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capistrano-ext-1.2.1/lib" />
-          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capistrano-2.5.19/lib" />
-          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/script/alpha_stage_build" />
-          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/lib" />
-          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/models/user" />
-          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capybara-1.0.0/lib" />
-          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/" />
-          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features" />
-          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/controllers" />
-          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app" />
-          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/models" />
-          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/my_glu" />
-          <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/requests" />
-          <item index="26" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/bundler/gems/mongoid-8f61f5b58c10/lib" />
-          <item index="27" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/rspec-mocks-2.6.0/lib" />
-          <item index="28" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capybara-0.4.1.2/lib" />
-          <item index="29" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d" />
+          <item index="0" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/helpers" />
+          <item index="1" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid-2.0.1/lib/" />
+          <item index="2" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/api" />
+          <item index="3" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/carrierwave-0.5.4/lib" />
+          <item index="4" class="java.lang.String" itemvalue="$USER_HOME$/workspace/jaeb_data_ws/config" />
+          <item index="5" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/config/deployments" />
+          <item index="6" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/config" />
+          <item index="7" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/script/alpha_build" />
+          <item index="8" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capistrano-ext-1.2.1/lib" />
+          <item index="9" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capistrano-2.5.19/lib" />
+          <item index="10" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/script/alpha_stage_build" />
+          <item index="11" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/lib" />
+          <item index="12" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/models/user" />
+          <item index="13" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capybara-1.0.0/lib" />
+          <item index="14" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/controllers" />
+          <item index="15" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app" />
+          <item index="16" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/models" />
+          <item index="17" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/app/views/my_glu" />
+          <item index="18" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/spec/requests" />
+          <item index="19" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/bundler/gems/mongoid-8f61f5b58c10/lib" />
+          <item index="20" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/rspec-mocks-2.6.0/lib" />
+          <item index="21" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p180@t1d/gems/capybara-0.4.1.2/lib" />
+          <item index="22" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@t1d/gems/mongoid-2.0.1/lib" />
+          <item index="23" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/step_definitions" />
+          <item index="24" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features" />
+          <item index="25" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/support" />
+          <item index="26" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d" />
+          <item index="27" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/public/javascripts" />
+          <item index="28" class="java.lang.String" itemvalue="$USER_HOME$/.rvm/gems/ruby-1.9.2-p136@global/gems/activesupport-3.0.4/lib/active_support" />
+          <item index="29" class="java.lang.String" itemvalue="$USER_HOME$/workspace/t1d/features/" />
         </list>
       </value>
     </option>
@@ -206,10 +207,9 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/workspace/ui-design" />
         <option value="$USER_HOME$/workspace/t1d" />
+        <option value="$USER_HOME$/workspace/ui-design" />
         <option value="$USER_HOME$/workspace/jaeb_data_ws" />
-        <option value="$USER_HOME$/Downloads/jquery-validation-1.8.0" />
       </list>
     </option>
     <option name="openPaths">
@@ -217,7 +217,10 @@
         <option value="$USER_HOME$/workspace/t1d" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/workspace/ui-design" />
+    <option name="lastPath" value="$USER_HOME$/workspace/t1d" />
+  </component>
+  <component name="Registry">
+    <entry key="ide.firstStartup" value="false" />
   </component>
   <component name="TemplateSettings">
     <defaultShortcut shortcut="TAB" />
@@ -243,8 +246,14 @@
         <list size="0" />
       </value>
     </option>
+    <option name="myIgnoredBuildNumbers">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
     <option name="CHECK_NEEDED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1308941398722" />
+    <option name="LAST_TIME_CHECKED" value="1310403635089" />
+    <option name="UPDATE_CHANNEL_TYPE" value="release" />
   </component>
   <component name="UsageViewSettings">
     <option name="filterDuplicatedLine" value="true" />
@@ -263,20 +272,6 @@
     </debuggers>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
-    <deleted_templates>
-      <option name="DELETED_DEFAULT_TEMPLATES">
-        <value>
-          <list size="0" />
-        </value>
-      </option>
-    </deleted_templates>
-    <deleted_includes>
-      <option name="DELETED_DEFAULT_TEMPLATES">
-        <value>
-          <list size="0" />
-        </value>
-      </option>
-    </deleted_includes>
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
@@ -288,21 +283,15 @@
         </value>
       </option>
     </recent_templates>
-    <templates>
-      <internal_template name="Html" reformat="true" />
-      <internal_template name="Html5" reformat="true" />
-      <internal_template name="Xhtml" reformat="true" />
-      <internal_template name="ActionScript Class" reformat="true" />
-      <internal_template name="ActionScript Interface" reformat="true" />
-      <template name="Erb File.html" reformat="true" />
-      <template name="JavaScript File" reformat="true" />
-      <template name="RSpec Test Template" reformat="true" />
-      <template name="Ruby Class Template" reformat="true" />
-      <template name="Test-Spec Template" reformat="true" />
-      <template name="TestUnit Test Template" reformat="true" />
-    </templates>
+    <default_templates />
+    <internal_templates />
+    <includes_templates />
+    <code_templates />
+    <j2ee_templates />
   </component>
   <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
     <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
   </component>
   <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces">
